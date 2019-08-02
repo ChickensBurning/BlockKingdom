@@ -662,70 +662,70 @@ MileStones:
       Messages:
         Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
         Player: '&aAcquired Silver Rank!'
-    Commands:
-    - 'lp user %player% parent remove default'
-    - 'bc %player% has voted 10 times and received &7Silver&r rank!'
-    - 'lp user %player% parent add silver'
+      Commands:
+      - 'lp user %player% parent remove default'
+      - 'bc %player% has voted 10 times and received &7Silver&r rank!'
+      - 'lp user %player% parent add silver'
   '30':
     Enabled: true
     Rewards: 
       Messages:
         Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
         Player: '&aAcquired Gold Rank!'
-    Commands:
-    - 'bc %player% has voted 30 times and received &6Gold&r rank!'
-    - 'lp user %player% parent remove silver'
-    - 'lp user %player% parent add gold'
+      Commands:
+      - 'bc %player% has voted 30 times and received &6Gold&r rank!'
+      - 'lp user %player% parent remove silver'
+      - 'lp user %player% parent add gold'
   '70':
     Enabled: true
     Rewards: 
       Messages:
         Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
         Player: '&aAcquired Platinum Rank!'
-    Commands:
-    - 'bc %player% has voted 70 times and received &8Platinum&r rank!'
-    - 'lp user %player% parent remove gold'
-    - 'lp user %player% parent add platinum'
+      Commands:
+      - 'bc %player% has voted 70 times and received &8Platinum&r rank!'
+      - 'lp user %player% parent remove gold'
+      - 'lp user %player% parent add platinum'
   '120':
     Enabled: true
     Rewards: 
       Messages:
         Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
         Player: '&aAcquired Crystal Rank!'
-    Commands:
-    - 'bc %player% has voted 120 times and received &5Crystal&r rank!'
-    - 'lp user %player% parent remove platinum'
-    - 'lp user %player% parent add crystal'
+      Commands:
+      - 'bc %player% has voted 120 times and received &5Crystal&r rank!'
+      - 'lp user %player% parent remove platinum'
+      - 'lp user %player% parent add crystal'
   '190':
     Enabled: true
     Rewards: 
       Messages:
         Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
         Player: '&aAcquired Master Rank!'
-    Commands:
-    - 'bc %player% has voted 190 times and received &0Master&r rank!'
-    - 'lp user %player% parent remove crystal'
-    - 'lp user %player% parent add master'
+      Commands:
+      - 'bc %player% has voted 190 times and received &0Master&r rank!'
+      - 'lp user %player% parent remove crystal'
+      - 'lp user %player% parent add master'
   '260':
     Enabled: true
     Rewards: 
       Messages:
         Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
         Player: '&aAcquired &cChampion &aRank!'
-    Commands:
-    - 'bc %player% has voted 260 times and received &cChampion&r rank!'
-    - 'lp user %player% parent remove master'
-    - 'lp user %player% parent add champion'
+      Commands:
+      - 'bc %player% has voted 260 times and received &cChampion&r rank!'
+      - 'lp user %player% parent remove master'
+      - 'lp user %player% parent add champion'
   '350':
     Enabled: true
     Rewards: 
       Messages:
         Player: '&f&l> &bYou have reached&e %milestone% &bvotes!'
         Player: '&aAcquired &cLegend &aRank!'
-    Commands:
-    - 'bc %player% has voted 350 times and received &2Leg&3end&r rank!'
-    - 'lp user %player% parent remove champion'
-    - 'lp user %player% parent add legend'
+      Commands:
+      - 'bc %player% has voted 350 times and received &2Leg&3end&r rank!'
+      - 'lp user %player% parent remove champion'
+      - 'lp user %player% parent add legend'
 VoteStreak:
   # Valid options: Day, Week, Month
   Day:
