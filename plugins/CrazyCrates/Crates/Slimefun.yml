@@ -1,0 +1,244 @@
+Crate:
+  CrateType: CSGO
+  CrateName: '&8Slimefun'
+  Preview-Name: '&8Slimefun &8Crate Preview'
+  StartingKeys: 0
+  InGUI: true
+  Slot: 23
+  OpeningBroadCast: false
+  BroadCast: ''
+  Item: 'CHEST'
+  Glowing: false
+  Name: '&a&lSlimefun Treasure Chest'
+  Lore:
+    - '&7This magical chest was found in the back,'
+    - '&7of an ancient workshop in a enchanted forest.'
+    - '&7You have &6%Keys% keys &7to open this crate with.'
+    - '&7&l(&e&l!&7&l) Right click to view rewards.'
+  Preview:
+    Toggle: true
+    ChestLines: 6
+    Glass:
+      Toggle: true
+      Item: 'PURPLE_STAINED_GLASS_PANE'
+  PhysicalKey:
+    Name: '&a&lSlime Key'
+    Lore:
+      - '&7This key has special'
+      - '&7teeth for a special chest.'
+    Item: 'TRIPWIRE_HOOK'
+    Glowing: true
+  # Tiers are available in Cosmic crates only
+  #The tiers in the Crate
+  Prizes:
+    1:
+      DisplayName: '&eCarbonado Edged Furnace'
+      DisplayItem: 'FURNACE'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 3
+      Firework: true
+      Glowing: true
+      # Tiers are available in Cosmic crates only
+      #The Tiers the rewards can be found in.
+      Commands:
+        - 'sf give %player% carbonado_edged_furnance 1'
+    2:
+      DisplayName: '&f2x &eElevator Plate'
+      DisplayItem: 'STONE_PRESSURE_PLATE'
+      DisplayAmount: 2
+      MaxRange: 100
+      Chance: 2
+      Commands:
+        - 'sf give %player% elevator_plate 2'
+    3:
+      DisplayName: '&eElectric Motor'
+      DisplayItem: 'FURNACE'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% electric_motor 1'
+    4:
+      DisplayName: '&eBattery'
+      DisplayItem: 'WHITE_STAINED_GLASS_PANE'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 5
+      Commands:
+        - 'sf give %player% battery 1'
+    5:
+      DisplayName: '&eSeismic Axe'
+      DisplayItem: 'DIAMOND_AXE'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% seismic_axe 1'
+    6:
+      DisplayName: '&eBattery'
+      DisplayItem: 'FURNACE'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 6
+      Commands:
+        - 'sf give %player% battery 1'
+    7:
+      DisplayName: '&eExplosive Pickaxe'
+      DisplayItem: 'DIAMOND_PICKAXE'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% explosive_pickaxe 1'
+    8:
+      DisplayName: '&f2x &eBattery'
+      DisplayItem: 'WHITE_STAINED_GLASS_PANE'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 4
+      Glowing: true
+      Commands:
+        - 'sf give %player% battery 2'
+    9:
+      DisplayName: '&2Grappling Hook'
+      DisplayItem: 'LEAD'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% grappling_hook 1'
+    10:
+      DisplayName: '&eLumber Axe'
+      DisplayItem: 'DIAMOND_AXE'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% lumber_axe 1'
+    11:
+      DisplayName: '&ePickaxe of Vein Mining'
+      DisplayItem: 'DIAMOND_PICKAXE'
+      DisplayAmount: 1
+      MaxRange: 100
+      Glowing: true
+      Chance: 4
+      Commands:
+        - 'sf give %player% pickaxe_of_vein_mining 1'
+    12:
+      DisplayName: '&bSynthetic Diamond'
+      DisplayItem: 'DIAMOND'
+      DisplayAmount: 1
+      Glowing: true
+      MaxRange: 100
+      Chance: 5
+      Commands:
+        - 'sf give %player% synthetic_diamond 1'
+    13:
+      DisplayName: '&aSynthetic Emerald'
+      DisplayItem: 'EMERALD'
+      DisplayAmount: 1
+      Glowing: true
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% synthetic_emerald 1'
+    14:
+      DisplayName: '&eBucket of Fuel'
+      DisplayItem: 'MILK_BUCKET'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% bucket_of_fuel 1'
+    15:
+      DisplayName: '&f3x &dRainbow Wool'
+      DisplayItem: 'WHITE_WOOL'
+      DisplayAmount: 1
+      Glowing: true
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% rainbow_wool 3'
+    16:
+      DisplayName: '&eHologram Projector'
+      DisplayItem: 'QUARTZ_SLAB'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% hologram_projector 1'
+    17:
+      DisplayName: '&6Gold Dust'
+      DisplayItem: 'GLOWSTONE_DUST'
+      DisplayAmount: 16
+      Glowing: true
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% gold_dust 16'
+    18:
+      DisplayName: '&6Silver Dust'
+      DisplayItem: 'SUGAR'
+      DisplayAmount: 16
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% silver_dust 16'
+    19:
+      DisplayName: '&6Copper Dust'
+      DisplayItem: 'GLOWSTONE_DUST'
+      DisplayAmount: 16
+      Glowing: true
+      MaxRange: 100
+      Chance: 3
+      Commands:
+        - 'sf give %player% copper_dust 16'
+    20:
+      DisplayName: '&6Tin Dust'
+      DisplayItem: 'SUGAR'
+      DisplayAmount: 16
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% tin_dust 16'
+    21:
+      DisplayName: '&6Aluminum Dust'
+      DisplayItem: 'SUGAR'
+      DisplayAmount: 16
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% aluminum_dust 16'
+    22:
+      DisplayName: '&6Lead Dust'
+      DisplayItem: 'GUNPOWDER'
+      DisplayAmount: 16
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% lead_dust 16'
+    23:
+      DisplayName: '&6Zinc Dust'
+      DisplayItem: 'SUGAR'
+      DisplayAmount: 16
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% zinc_dust 16'
+    24:
+      DisplayName: '&6Iron Dust'
+      DisplayItem: 'GUNPOWDER'
+      DisplayAmount: 16
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% iron_dust 16'
+    25:
+      DisplayName: '&6Magnesium Dust'
+      DisplayItem: 'SUGAR'
+      DisplayAmount: 16
+      MaxRange: 100
+      Chance: 4
+      Commands:
+        - 'sf give %player% magnesium_dust 16'
