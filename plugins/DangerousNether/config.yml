@@ -1,5 +1,5 @@
 'Enable Ambient Sounds ': true
-'Nether Lightning ': true
+'Nether Lightning ': false
 'Soulsand Slowness ': false
 'Netherrack Fires ': false
 'Enable Custom Mobs ': true
@@ -21,7 +21,7 @@
 'Mob Spawn Chance ': 5
 'Falling Nether Chance ': 0
 'Alpha Pigman Sword Drop Chance ': 1
-'Wind Volume - lower equals louder - ': 2000
+'Wind Volume - lower equals louder - ': 10000
 'Wind Pitch - must be between 0 and 2 - ': 0
 'Low Y Value Wind ': 0
 'High Y Value Wind ': 300
