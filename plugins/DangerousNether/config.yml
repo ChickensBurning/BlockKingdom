@@ -42,8 +42,8 @@
 'Spawn Molten ': true
 'Spawn Fireball ': true
 'Spawn Inferno ': true
-'Spawn Old Shadow ': true
-'Spawn Sherogath ': true
+'Spawn Old Shadow ': false
+'Spawn Sherogath ': false
 'Spawn Sadness ': true
 'Spawn Necromancer ': false
 'Spawn Alpha Pigman ': true
