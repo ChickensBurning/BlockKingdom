@@ -37,3 +37,9 @@ worlds:
     radiusX: 2048
     radiusZ: 2048
     wrapping: false
+  world_resource:
+    x: 0.0
+    z: 0.0
+    radiusX: 2048
+    radiusZ: 2048
+    wrapping: false

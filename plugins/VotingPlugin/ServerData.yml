@@ -12,6 +12,91 @@ VotingPlugin:
   - http://www.minecraft-servers-list.org
   - SERVERPACTTEST
   - Minecraft-Server.net
+  Signs:
+    '0':
+      World: world
+      X: -39
+      Y: 79.0
+      Z: -16
+      Data: Monthly
+      Position: 1
+    '1':
+      World: world
+      X: -40
+      Y: 79.0
+      Z: -16
+      Data: Monthly
+      Position: 2
+    '2':
+      World: world
+      X: -41
+      Y: 79.0
+      Z: -16
+      Data: Monthly
+      Position: 3
+    '3':
+      World: world
+      X: -42
+      Y: 79.0
+      Z: -16
+      Data: Monthly
+      Position: 4
+    '4':
+      World: world
+      X: -39
+      Y: 78.0
+      Z: -16
+      Data: all
+      Position: 1
+    '5':
+      World: world
+      X: -40
+      Y: 78.0
+      Z: -16
+      Data: all
+      Position: 2
+    '6':
+      World: world
+      X: -41
+      Y: 78.0
+      Z: -16
+      Data: all
+      Position: 3
+    '7':
+      World: world
+      X: -42
+      Y: 78.0
+      Z: -16
+      Data: all
+      Position: 4
+    '8':
+      World: world
+      X: -39
+      Y: 77.0
+      Z: -16
+      Data: daily
+      Position: 1
+    '9':
+      World: world
+      X: -40
+      Y: 77.0
+      Z: -16
+      Data: daily
+      Position: 2
+    '10':
+      World: world
+      X: -41
+      Y: 77.0
+      Z: -16
+      Data: daily
+      Position: 3
+    '11':
+      World: world
+      X: -42
+      Y: 77.0
+      Z: -16
+      Data: daily
+      Position: 4
 PluginVersions:
   VotingPlugin: 5.19.1
 PrevDay: 2

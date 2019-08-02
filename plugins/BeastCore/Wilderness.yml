@@ -22,11 +22,14 @@ Command:
     world-not-allowed: '&cThe world you are in, does not allow &7/wild &c!'
     Worlds:
       world:
-        max-radius: 2048
-        min-radius: 256
-      world_nether:
+        max-radius: 1024
+        min-radius: 128
+      world_resource:
         max-radius: 512
         min-radius: 64
+      world_nether:
+        max-radius: 256
+        min-radius: 32
       other_world_name:
         max-radius: 3000
         min-radius: 600

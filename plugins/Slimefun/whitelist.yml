@@ -1402,3 +1402,7 @@ world_the_end:
     ELECTRIC_SMELTERY_2: true
     WITHER_ASSEMBLER: true
   enabled: true
+world_resource:
+  enabled: true
+  enabled-items:
+    SLIMEFUN_GUIDE: true
