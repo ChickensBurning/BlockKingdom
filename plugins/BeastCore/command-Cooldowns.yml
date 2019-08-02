@@ -9,10 +9,14 @@ command-Cooldowns:
     bypass-permission: repairall.beastCooldown.bypass
     on-beastCooldown-message: '&cYou cant use &fRepairAll &cuntil: &e{cooldown_formatted}'
   repair:
-    beastCooldown: 10800
+    beastCooldown: 3600
     bypass-permission: repair.beastCooldown.bypass
     on-beastCooldown-message: '&cYou cant use &fRepair &cuntil: &e{cooldown_formatted}'
   pvptoggle:
     beastCooldown: 600
     bypass-permission: pvptoggle.beastCooldown.bypass
     on-beastCooldown-message: '&cYou cant use &fPvptoggle &cuntil: &e{cooldown_formatted}'
+  wild:
+    beastCooldown: 60
+    bypass-permission: wild.beastCooldown.bypass
+    on-beastCooldown-message: '&cYou cant use &fWild &cuntil: &e{cooldown_formatted}'   
