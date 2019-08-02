@@ -19,4 +19,4 @@ command-Cooldowns:
   wild:
     beastCooldown: 60
     bypass-permission: wild.beastCooldown.bypass
-    on-beastCooldown-message: '&cYou cant use &fWild &cuntil: &e{cooldown_formatted}'   
+    on-beastCooldown-message: '&cYou cant use &fWild &cuntil: &e{cooldown_formatted}'

@@ -17,3 +17,14 @@ holograms:
     location: world;-32.5784962183481;69.0;-47.48878112170424;83.25033;37.806477
     lines:
     - §fDo §2/wild §f to start your adventure!
+  voteranks:
+    location: world;-23.539885376799365;70.0;-32.55449899543443;36.599663;114.75482
+    lines:
+    - §5You are able to rankup by
+    - §5voting §f10 times for §7Silver§f!
+  campgrounds:
+    location: world_resource;42.608775031340045;72.0;-143.62470496040675;35.250153;230.98132
+    lines:
+    - §5Welcome to
+    - §6HAPPY FAPPY
+    - §5Campgrounds

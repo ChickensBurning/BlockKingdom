@@ -21,7 +21,7 @@ Pu$$yRippers:
   Leader: 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
   Locked: true
   Level: 10
-  Xp: 2578
+  Xp: 3254
   Ally: ''
   ExpShareMode: EQUAL
   ItemShareMode: NONE
@@ -40,7 +40,7 @@ RetiredMC:
   Leader: 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   Locked: true
   Level: 10
-  Xp: 1010
+  Xp: 1870
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -54,3 +54,21 @@ RetiredMC:
   - 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   - ea42a580-355a-4981-bed2-65dc5fccbeb6|Grepses
   - b6bb0a32-3f3a-4e47-8db1-026a17cc5bbd|ChickensDying
+Jahaven:
+  Leader: 23757a5a-ed62-4ef1-8bb6-62de752f3a94|JahTheSequel
+  Password: OnJah
+  Locked: true
+  Level: 10
+  Xp: 5267
+  Ally: ''
+  ExpShareMode: NONE
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - 23757a5a-ed62-4ef1-8bb6-62de752f3a94|JahTheSequel
+  - 0f1e98ce-7ae8-4cff-b7b3-f1f3025a7c59|El_Mexicano_Hdz
