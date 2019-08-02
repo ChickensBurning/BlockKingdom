@@ -43,7 +43,7 @@ Detections:
   allow_cancelled_hit_checking: false
   update_blocks_upon_teleport: false
   check_locations_around_player: false
-  run_asynchronously: true
+  run_asynchronously: false
 Performance:
   enable_performance_optimizer: true
   enable_false_positive_detection: true
