@@ -10,7 +10,7 @@
 
 Boost:
   NightBoost:
-    Enabled: true
+    Enabled: false
     From: '20:00:00'
     Until: '06:00:00'
     Exp: 2.0
