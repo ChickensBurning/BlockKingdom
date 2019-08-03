@@ -991,7 +991,7 @@ shops:
           material: MAGMA_CREAM
           quantity: 1
         buyPrice: 90
-        sellPrice: 6
+        sellPrice: 4
         slot: 22
       12:
         type: item
