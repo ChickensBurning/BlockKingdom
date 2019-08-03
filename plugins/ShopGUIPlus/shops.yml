@@ -270,7 +270,6 @@ shops:
           material: NETHER_BRICK
           quantity: 16
         buyPrice: 120
-        sellPrice: 45
         slot: 22
         page: 2
       33:
