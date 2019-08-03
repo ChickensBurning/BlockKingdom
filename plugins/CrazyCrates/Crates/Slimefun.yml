@@ -36,7 +36,7 @@ Crate:
       DisplayItem: 'FURNACE'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 3
+      Chance: 0.5
       Firework: true
       Glowing: true
       # Tiers are available in Cosmic crates only
@@ -56,7 +56,7 @@ Crate:
       DisplayItem: 'FURNACE'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 4
+      Chance: 1
       Commands:
         - 'sf give %player% electric_motor 1'
     4:
@@ -64,7 +64,7 @@ Crate:
       DisplayItem: 'WHITE_STAINED_GLASS_PANE'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 5
+      Chance: 1
       Commands:
         - 'sf give %player% battery 1'
     5:
@@ -72,7 +72,7 @@ Crate:
       DisplayItem: 'DIAMOND_AXE'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 4
+      Chance: 6
       Commands:
         - 'sf give %player% seismic_axe 1'
     6:
@@ -80,7 +80,7 @@ Crate:
       DisplayItem: 'FURNACE'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 6
+      Chance: 1
       Commands:
         - 'sf give %player% battery 1'
     7:
@@ -88,7 +88,7 @@ Crate:
       DisplayItem: 'DIAMOND_PICKAXE'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 4
+      Chance: 2
       Commands:
         - 'sf give %player% explosive_pickaxe 1'
     8:
@@ -96,7 +96,7 @@ Crate:
       DisplayItem: 'WHITE_STAINED_GLASS_PANE'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 4
+      Chance: 1
       Glowing: true
       Commands:
         - 'sf give %player% battery 2'
@@ -105,7 +105,7 @@ Crate:
       DisplayItem: 'LEAD'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 4
+      Chance: 11
       Commands:
         - 'sf give %player% grappling_hook 1'
     10:
@@ -113,7 +113,7 @@ Crate:
       DisplayItem: 'DIAMOND_AXE'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 4
+      Chance: 3
       Commands:
         - 'sf give %player% lumber_axe 1'
     11:
@@ -122,7 +122,7 @@ Crate:
       DisplayAmount: 1
       MaxRange: 100
       Glowing: true
-      Chance: 4
+      Chance: 1
       Commands:
         - 'sf give %player% pickaxe_of_vein_mining 1'
     12:
@@ -131,7 +131,7 @@ Crate:
       DisplayAmount: 1
       Glowing: true
       MaxRange: 100
-      Chance: 5
+      Chance: 2
       Commands:
         - 'sf give %player% synthetic_diamond 1'
     13:
@@ -140,7 +140,7 @@ Crate:
       DisplayAmount: 1
       Glowing: true
       MaxRange: 100
-      Chance: 4
+      Chance: 1
       Commands:
         - 'sf give %player% synthetic_emerald 1'
     14:
@@ -148,7 +148,7 @@ Crate:
       DisplayItem: 'MILK_BUCKET'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 4
+      Chance: 2
       Commands:
         - 'sf give %player% bucket_of_fuel 1'
     15:
@@ -165,7 +165,7 @@ Crate:
       DisplayItem: 'QUARTZ_SLAB'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 4
+      Chance: 5
       Commands:
         - 'sf give %player% hologram_projector 1'
     17:
@@ -174,7 +174,7 @@ Crate:
       DisplayAmount: 16
       Glowing: true
       MaxRange: 100
-      Chance: 4
+      Chance: 8
       Commands:
         - 'sf give %player% gold_dust 16'
     18:
@@ -182,7 +182,7 @@ Crate:
       DisplayItem: 'SUGAR'
       DisplayAmount: 16
       MaxRange: 100
-      Chance: 4
+      Chance: 6.5
       Commands:
         - 'sf give %player% silver_dust 16'
     19:
@@ -191,7 +191,7 @@ Crate:
       DisplayAmount: 16
       Glowing: true
       MaxRange: 100
-      Chance: 3
+      Chance: 1
       Commands:
         - 'sf give %player% copper_dust 16'
     20:
@@ -199,7 +199,7 @@ Crate:
       DisplayItem: 'SUGAR'
       DisplayAmount: 16
       MaxRange: 100
-      Chance: 4
+      Chance: 6
       Commands:
         - 'sf give %player% tin_dust 16'
     21:
@@ -207,7 +207,7 @@ Crate:
       DisplayItem: 'SUGAR'
       DisplayAmount: 16
       MaxRange: 100
-      Chance: 4
+      Chance: 9
       Commands:
         - 'sf give %player% aluminum_dust 16'
     22:
@@ -215,7 +215,7 @@ Crate:
       DisplayItem: 'GUNPOWDER'
       DisplayAmount: 16
       MaxRange: 100
-      Chance: 4
+      Chance: 9
       Commands:
         - 'sf give %player% lead_dust 16'
     23:
@@ -231,7 +231,7 @@ Crate:
       DisplayItem: 'GUNPOWDER'
       DisplayAmount: 16
       MaxRange: 100
-      Chance: 4
+      Chance: 7
       Commands:
         - 'sf give %player% iron_dust 16'
     25:
@@ -239,6 +239,6 @@ Crate:
       DisplayItem: 'SUGAR'
       DisplayAmount: 16
       MaxRange: 100
-      Chance: 4
+      Chance: 6
       Commands:
         - 'sf give %player% magnesium_dust 16'
