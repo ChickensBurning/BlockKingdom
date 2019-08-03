@@ -722,7 +722,6 @@ shops:
           material: COCOA_BEANS
           quantity: 1
         buyPrice: 3.44
-        sellPrice: 5
         slot: 13
       5:
         type: item
