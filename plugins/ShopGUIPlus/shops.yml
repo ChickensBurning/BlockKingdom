@@ -612,9 +612,9 @@ shops:
       9:
         type: item
         item:
-          material: MELON
-          quantity: 1
-        buyPrice: 12
+          material: KELP
+          quantity: 32
+        buyPrice: 60
         sellPrice: 5
         slot: 20
       10:
@@ -644,19 +644,12 @@ shops:
       13:
         type: item
         item:
-          material: CACTUS 
-          quantity: 32
-        buyPrice: 35
-        slot: 24
-      14:
-        type: item
-        item:
           material: POTATO
           quantity: 32
         buyPrice: 60
         sellPrice: 35
         slot: 25
-      15:
+      14:
         type: item
         item:
           material: POISONOUS_POTATO
@@ -664,7 +657,7 @@ shops:
         buyPrice: 80
         sellPrice: 20
         slot: 28
-      16:
+      15:
         type: item
         item:
           material: POTATO
@@ -672,7 +665,7 @@ shops:
         buyPrice: 60
         sellPrice: 35
         slot: 29
-      17:
+      16:
         type: item
         item:
           material: CARROT
@@ -680,14 +673,6 @@ shops:
         buyPrice: 65
         sellPrice: 35
         slot: 30
-      18:
-        type: item
-        item:
-          material: APPLE
-          quantity: 32
-        buyPrice: 80
-        sellPrice: 50
-        slot: 21
   dyes:
     name: "&2&lDyes (page %page%)"
     size: 54
