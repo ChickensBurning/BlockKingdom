@@ -949,7 +949,7 @@ economy:
     price_town_upkeep: '200.0'
     # Uses total amount of owned plots to determine upkeep instead of the town level (Number of residents)
     # calculated by (number of claimed plots X price_town_upkeep).
-    town_plotbased_upkeep: 'true'
+    town_plotbased_upkeep: 'false'
     # If set to true, the plot-based-upkeep system will be modified by the Town Levels' upkeep modifiers.
     town_plotbased_upkeep_affected_by_town_level_modifier: 'false'
     # If enabled and you set a negative upkeep for the town
