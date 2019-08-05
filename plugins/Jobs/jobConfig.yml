@@ -745,75 +745,75 @@ Jobs:
         experience: 3
       #origial blocks
       andesite:
-        income: 0.05
+        income: 0.25
         points: 0.50
         experience: 0.25
       stone:
-        income: 0.05
+        income: 0.25
         points: 0.25
         experience: 0.25
       granite:
-        income: 0.05
+        income: 0.25
         points: 0.25
         experience: 0.25
       diorite:
-        income: 0.05
+        income: 0.25
         points: 0.25
         experience: 0.25
       sandstone:
-        income: 0.05
+        income: 0.25
         points: 0.15
         experience: 0.2
       chiseled_sandstone:
-        income: 0.05
+        income: 0.15
         points: 0.15
         experience: 0.2
       cut_sandstone:
-        income: 0.05
+        income: 0.15
         points: 0.15
         experience: 0.2
       coal_ore:
-        income: 0.1
+        income: 0.50
         points: 2
         experience: 2
       redstone_ore:
-        income: 0.1
+        income: 0.65
         points: 2
         experience: 2
       iron_ore:
-        income: 0.1
+        income: 1.2
         points: 3
         experience: 2
       gold_ore:
-        income: 0.2
+        income: 3
         points: 4
         experience: 2
       lapis_ore:
-        income: 0.2
+        income: 0.85
         points: 6
         experience: 2
       diamond_ore:
-        income: 0.5
+        income: 4
         points: 10
         experience: 10
       emerald_ore:
-        income: 0.5
+        income: 5
         points: 15
         experience: 30
       nether_quartz_ore:
-        income: 0.2
+        income: 0.55
         points: 2.5
         experience: 2.5
       obsidian:
-        income: 0.5
+        income: 5.5
         points: 5
         experience: 5
       nether_bricks:
-        income: 0.1
+        income: 0.25
         points: 1
         experience: 1.0
       netherrack:
-        income: 0.1
+        income: 0.15
         points: 0.1
         experience: 0.1
       prismarine:
@@ -834,19 +834,19 @@ Jobs:
         points: 2.0
         experience: 2.0
       iron_ore:
-        income: -3.5
-        points: -5
+        income: -1.2
+        points: -4
         experience: -5.0
       gold_ore:
-        income: -4.5
-        points: -6
+        income: -3
+        points: -4
         experience: -6.0
       diamond_ore:
-        income: -10.0
+        income: -4.0
         points: -10
         experience: -10.0
       emerald_ore:
-        income: -15
+        income: -5
         points: -15
         experience: -30
     Kill:

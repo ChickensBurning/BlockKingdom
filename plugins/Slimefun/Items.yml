@@ -2532,7 +2532,7 @@ ICY_BOW:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Special-Bows
 TOME_OF_KNOWLEDGE_SHARING:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
