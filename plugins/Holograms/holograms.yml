@@ -28,3 +28,7 @@ holograms:
     - §5Welcome to
     - §6HAPPY FAPPY
     - §5Campgrounds
+  Slimecrate:
+    location: world;-29.58454222866151;69.61779817900387;-41.52478527949348;25.799427;91.35754
+    lines:
+    - §a§lSlimefun Chest

@@ -1,0 +1,38 @@
+#################
+#    Crawling   #
+#################
+
+#Enable or Disable the plugin
+Enabled: true
+#Enable or Disable the command to crawl everywhere
+CrawlCommand: true
+#Can players crawl by double sneaking while looking down?
+DoubleSneakToCrawl: true
+
+#Do players needs a permission to be able to crawl? (crawl.player)
+UsePermissions: false
+#Do players need another permission to be able to crawl ussing a command? This will allow players to crawl everywhere.
+DifferentPermission: false
+#If this is true, the different permissions is crawl.command.
+
+#Messages
+
+ActionBarMessageOn: '&f&lYou''re crawling! Press SHIFT to get up!'
+ActionBarMessageOff: '&c&lYou''re no longer crawling!'
+ActionBarMessageDeny: '&c&lYou can''t get up here!'
+
+AutoCrawlOn: '&6AutoCrawl turned &a&lON'
+AutoCrawlOff: '&6AutoCrawl turned &c&lOFF'
+
+CrawlAlreadyOn: '&6AutoCrawl is already turned &a&lON'
+CrawlAlreadyOff: '&6AutoCrawl is already turned &c&lOFF'
+
+NoPermission: '&cYou don''t have the permission to do that!'
+
+CommandsHelp: '&7-_-_- &6Crawl Commands &7-_-_- ; ; &6/crawl help &8- &7see the commands ; &6/crawl &8- &7toggle auto-crawl ; &6/crawl on &8- &7turn on auto-crawl ; &6/crawl off &8- &7turn off auto-crawl ; ; &6/crawl reload &8- &7reload the config'
+
+#Don't change this list. Here are all players who turned off auto-crawl.
+PlayersWithAutoCrawlOff: []
+
+#Don't change this, it's used to update the config when you update the plugin.
+Version: 2

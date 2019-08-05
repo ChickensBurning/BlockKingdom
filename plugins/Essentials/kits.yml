@@ -13,6 +13,7 @@ kits:
   member:
     delay: 604800
     items:
+    - written_book 1 book:Colors
     - iron_helmet 1
     - iron_chestplate 1
     - iron_leggings 1

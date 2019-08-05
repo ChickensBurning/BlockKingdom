@@ -1,0 +1,14 @@
+# 
+# SilkChests
+silk:
+  perms: false
+  creative: false
+  instantly: false
+  tools:
+  - wood_axe
+  - stone_axe
+  - golden_axe
+  - iron_axe
+  - diamond_axe
+  level: 1
+configVersion: 1

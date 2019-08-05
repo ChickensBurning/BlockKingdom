@@ -2,7 +2,7 @@ Softies:
   Leader: b7d591a6-7fb2-4346-968c-f58d00ea2a4a|SoftNina
   Locked: true
   Level: 10
-  Xp: 1461
+  Xp: 2400
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -21,7 +21,7 @@ Pu$$yRippers:
   Leader: 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
   Locked: true
   Level: 10
-  Xp: 3254
+  Xp: 771
   Ally: ''
   ExpShareMode: EQUAL
   ItemShareMode: NONE
@@ -34,13 +34,13 @@ Pu$$yRippers:
   Members:
   - 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
   - 89808db2-8c04-4212-8038-1e8d605f7b89|zKirk
-  - fff2c457-d1ac-43b7-a0bf-4f33305c5d23|SeantasticSean
   - 6d8a67f0-1cb6-4e79-9b0d-77be763ad047|iGooMo
+  - fff2c457-d1ac-43b7-a0bf-4f33305c5d23|SeantasticSean
 RetiredMC:
   Leader: 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   Locked: true
   Level: 10
-  Xp: 1870
+  Xp: 2840
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -59,7 +59,7 @@ Jahaven:
   Password: OnJah
   Locked: true
   Level: 10
-  Xp: 5267
+  Xp: 4120
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -72,3 +72,4 @@ Jahaven:
   Members:
   - 23757a5a-ed62-4ef1-8bb6-62de752f3a94|JahTheSequel
   - 0f1e98ce-7ae8-4cff-b7b3-f1f3025a7c59|El_Mexicano_Hdz
+  - 9c831db3-4541-4516-8b38-e76652d6603d|Villhalian
