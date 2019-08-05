@@ -13,7 +13,7 @@ kits:
   member:
     delay: 604800
     items:
-    - written_book 1 book:BlockKingdom title:&2Block&3Kingdom author:Staff lore:Starter_Guide
+    - written_book 1 title:&2Block&3Kingdom author:Staff lore:Starter_Guide|Version:_1.0 book:BlockKingdom
     - iron_helmet 1
     - iron_chestplate 1
     - iron_leggings 1
