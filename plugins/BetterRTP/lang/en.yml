@@ -30,12 +30,12 @@ Titles:
   Enabled: true
   Delay:
     SendChatMessage: true
-    Title: '&6BetterRTP by SRC'
+    Title: '&2Wilderness RTP'
     Subtitle: '&fTeleporting in %time% seconds!'
   Success:
     SendChatMessage: true
-    Title: '&6BetterRTP by SRC &7(%attempts%)'
-    Subtitle: '&fTeleporting to x=%x% y=%y% z=%z%'
+    Title: '&2Wilderness RTP &7(%attempts%)'
+    Subtitle: '&3Teleporting to x=%x% y=%y% z=%z%'
 Help:
   List:
   - '&e&m------&r &6&lBetterRTP &8| &7Help &e&m------'
