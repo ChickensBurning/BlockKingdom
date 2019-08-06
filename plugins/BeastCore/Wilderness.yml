@@ -10,7 +10,7 @@ Command:
     max-tries-to-find-location: 30000
     no-suitable-location: '&f> &cWe didnt find any suitable location, try again!'
     teleporting: '&f> &eTeleporting...'
-    enabled: true
+    enabled: false
     blacklisted-blocks:
     - WATER
     - LAVA
