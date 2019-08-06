@@ -31,7 +31,7 @@ VoteSites:
     Enabled: true
     Name: MinecraftMP
     ServiceSite: minecraft-mp.com
-    VoteURL: https://minecraft-mp.com/server/229075/vote
+    VoteURL: https://minecraft-mp.com/server/229075/vote/
     VoteDelay: 24
     Item:
       Material: GRASS

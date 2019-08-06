@@ -465,6 +465,9 @@ world:
     ELECTRIC_SMELTERY: true
     ELECTRIC_SMELTERY_2: true
     WITHER_ASSEMBLER: true
+    OUTPUT_CHEST: true
+    TABLE_SAW: true
+    COPPER_WIRE: true
   enabled: true
 world_nether:
   enabled-items:
@@ -933,6 +936,9 @@ world_nether:
     ELECTRIC_SMELTERY: true
     ELECTRIC_SMELTERY_2: true
     WITHER_ASSEMBLER: true
+    OUTPUT_CHEST: true
+    TABLE_SAW: true
+    COPPER_WIRE: true
   enabled: true
 world_the_end:
   enabled-items:
@@ -1401,6 +1407,9 @@ world_the_end:
     ELECTRIC_SMELTERY: true
     ELECTRIC_SMELTERY_2: true
     WITHER_ASSEMBLER: true
+    OUTPUT_CHEST: true
+    TABLE_SAW: true
+    COPPER_WIRE: true
   enabled: true
 world_resource:
   enabled: true
@@ -1863,3 +1872,6 @@ world_resource:
     ELECTRIC_SMELTERY: true
     ELECTRIC_SMELTERY_2: true
     WITHER_ASSEMBLER: true
+    OUTPUT_CHEST: true
+    TABLE_SAW: true
+    COPPER_WIRE: true

@@ -3935,3 +3935,24 @@ CARGO_OUTPUT_ADVANCED:
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Nodes
 TRASH_CAN:
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Trash-Can
+OUTPUT_CHEST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  required-permission: ''
+TABLE_SAW:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  required-permission: ''
+COPPER_WIRE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  required-permission: ''

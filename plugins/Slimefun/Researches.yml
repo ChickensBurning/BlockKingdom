@@ -891,3 +891,11 @@ enable-researching: true
   name: Automatic Ignition Chamber
   cost: 12
   enabled: true
+'240':
+  name: Basic machinery output chest
+  cost: 20
+  enabled: true
+'241':
+  name: Thinned-down Conductivity
+  cost: 15
+  enabled: true
