@@ -6,11 +6,11 @@ Settings:
   RespectWorldGuard: false
   RespectGriefPrevention: false
   RespectSavageFactions: false
-  MinRadius: 25
-  MaxAttempts: 15
+  MinRadius: 400
+  MaxAttempts: 30
   Cooldown:
     Enabled: true
-    Time: 10
+    Time: 5
   Delay:
     Time: 5
     CancelOnMove: true
@@ -18,8 +18,8 @@ Settings:
 Default:
   UseWorldBorder: true
   Biomes: []
-  MaxRadius: 100
-  MinRadius: 10
+  MaxRadius: 9000
+  MinRadius: 400
   CenterX: 0
   CenterZ: 0
 BlacklistedBlocks:
@@ -34,6 +34,8 @@ BlacklistedBlocks:
 DisabledWorlds:
 - prison
 - creative
+- nether
+- end
 CustomWorlds:
   world:
     UseWorldBorder: false

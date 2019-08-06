@@ -2,7 +2,7 @@ Economy:
   Enabled: false
   Price: 5
 CustomWorlds:
-  Enabled: true
+  Enabled: false
   Worlds:
     world: 5
     world_end: 0
