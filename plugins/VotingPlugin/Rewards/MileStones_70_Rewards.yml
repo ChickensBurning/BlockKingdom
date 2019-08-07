@@ -1,0 +1,8 @@
+# Directly defined reward file. ANY EDITS HERE CAN GET OVERRIDDEN!
+Messages:
+  Player: '&aAcquired Platinum Rank!'
+Commands:
+- bc %player% has voted 70 times and received &8Platinum&r rank!
+- lp user %player% parent add platinum
+- lp user %player% parent remove gold
+DirectlyDefinedReward: true

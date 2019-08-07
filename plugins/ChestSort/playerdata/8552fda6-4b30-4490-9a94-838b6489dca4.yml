@@ -1,5 +1,5 @@
-sortingEnabled: false
-hasSeenMessage: false
+sortingEnabled: true
+hasSeenMessage: true
 middleClick: true
 shiftClick: true
 doubleClick: true

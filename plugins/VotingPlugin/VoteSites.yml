@@ -134,4 +134,15 @@ VoteSites:
     Rewards:
       Messages:
         Player: '&aThanks for voting on %ServiceSite%!'
+  (SiteName):
+    Enabled: true
+    ServiceSite: (SiteName)
+    VoteURL: VoteURL
+    VoteDelay: 24
+    Item:
+      Material: GRASS
+      Amount: 1
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
 EverySiteReward: []

@@ -412,3 +412,13 @@ KillAura:
     '4':
       '1': spartan warn {player} You were detected for {detection}
       '2': spartan kick {player} {detection}
+XRay:
+  enabled: true
+  name: XRay
+  violation_divisor: 1
+  disabled_worlds: ''
+  silent_worlds: ''
+  punishments:
+    '2':
+      '1': spartan warn {player} You were detected for {detection}
+      '2': spartan kick {player} {detection}
