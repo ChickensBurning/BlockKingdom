@@ -25,7 +25,7 @@ MyPet:
     Level: INFO
     Report-Errors: true
     Unique-ID: 2b582ec1-93b0-40ab-b167-107df78d065f
-  Max-Stored-Pet-Count: 45
+  Max-Stored-Pet-Count: 2
   Throw-PlayerMoveEvent-While-Riding: true
   Disable-All-Actionbar-Messages: false
   OverwriteLanguages: ''
