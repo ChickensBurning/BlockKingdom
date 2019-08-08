@@ -31,8 +31,26 @@ holograms:
     - §5§lwith a random teleport into
     - §5§lthe wild using §6§l/rtp§5§l!
   crates:
-    location: world;-46.53007245025089;79.5;-2.4955575199558595;90.0;-139.95093
+    location: world;3.5115836491543644;68.5;-114.43452578762971;90.0;-180.65225
     lines:
     - §5§lSpend your hard
     - §5§learned crate keys
     - §5§lhere!
+  discord:
+    location: world;-29.47591818593745;69.0;-29.395038564661846;44.099415;164.40884
+    lines:
+    - §5§lEngrave yourself into the community
+    - §5§land talk to other players online
+    - §5§lby joining our Discord with §6§l/discord§5§l!
+  github:
+    location: world;-9.683340440179101;66.5;-12.364104965004532;90.0;-267.0523
+    lines:
+    - §5§lClone the repository, become a contributor,
+    - §5§lsubmit an issue, and help us improve our server!
+    - §5§lonline at §6§lhttps://github.blockkingdom.org
+  bk:
+    location: world;-24.511339107612372;69.0;-37.452818848147295;31.949438;-261.59204
+    lines:
+    - §5Visit our website at
+    - §6blockkingdom.org
+    - §5 to join our §6Discord!
