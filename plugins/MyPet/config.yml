@@ -15,7 +15,7 @@ MyPet:
     Consume: false
     AllowRanged: true
   OwnerCanAttackPet: false
-  DisablePetVersusPlayer: false
+  DisablePetVersusPlayer: true
   RemovePetsAfterRelease: false
   FollowStartDistance: 7.0
   ReleasePetsOnDeath: false
@@ -87,6 +87,13 @@ MyPet:
     Filter:
     - whore
     - fuck
+    - nigger
+    - nigga
+    - chink
+    - spic
+    - trash
+    - penis
+    - vagina
     MaxLength: 32
     Tag:
       Show: true
