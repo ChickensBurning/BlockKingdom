@@ -11,7 +11,7 @@ Crate:
   Glowing: false
   Name: '&e&lClassic Chest'
   Lore:
-    - '&7This crate contains classic items.'
+    - '&7This crate contains Voting rewards.'
     - '&7You have &6%Keys% keys &7to open this crate with.'
     - '&7&l(&e&l!&7&l) Right click to view rewards.'
   Preview:
@@ -21,10 +21,9 @@ Crate:
       Toggle: true
       Item: 'YELLOW_STAINED_GLASS_PANE'
   PhysicalKey:
-    Name: '&e&lClassic Crate &c&lKey'
+    Name: '&b&lVoting Crate &c&lKey'
     Lore:
-      - '&7A special Key'
-      - '&7For a special Crate.'
+      - '&eThanks for voting!'
     Item: 'TRIPWIRE_HOOK'
     Glowing: True
   Prizes:
@@ -33,7 +32,7 @@ Crate:
       DisplayItem: 'TRIPWIRE_HOOK'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 5
+      Chance: 2
       Commands:
         - 'cc give physical slimefun 1 %Player%'
     2:
@@ -41,7 +40,7 @@ Crate:
       DisplayItem: 'SUNFLOWER'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 15
+      Chance: 20
       Commands:
         - 'eco give %Player% 500'
     3:
@@ -49,7 +48,7 @@ Crate:
       DisplayItem: 'SUNFLOWER'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 35
+      Chance: 37
       Firework: true
       Commands:
         - 'eco give %Player% 300'
@@ -60,8 +59,34 @@ Crate:
       DisplayItem: 'TRIPWIRE_HOOK'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 45
+      Chance: 35
       Commands:
         - 'eco give %Player% 100'
       Messages:
         - '&7You just won &a$100&7.'
+    5:
+      DisplayName: '&dThe Craftsnow'
+      DisplayItem: 'DIAMOND_SWORD'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 3
+      Items:
+        - 'Item:DIAMOND_SWORD, Amount:1, Name:&dThe Craftsnow, DAMAGE_ALL:2, FIRE_ASPECT:3, DURABILITY:5'
+      DisplayEnchantments:
+        - 'DAMAGE_ALL:2'
+        - 'FIRE_ASPECT:1'
+      Messages:
+        - '&7You acquired &dThe Craftsnow&7.'
+    6:
+      DisplayName: '&5Nyte Helmet'
+      DisplayItem: 'DIAMOND_HELMET'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 3
+      Items:
+        - 'Item:DIAMOND_HELMET, Amount:1, Name:&dNyte Helmet, PROTECTION_ENVIRONMENTAL:3, LOYALTY:1, DURABILITY:3'
+      DisplayEnchantments:
+        - 'DAMAGE_ALL:2'
+        - 'FIRE_ASPECT:1'
+      Messages:
+        - '&7You acquired the&5Nyte Helmet&7.'
