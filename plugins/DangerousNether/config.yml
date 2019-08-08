@@ -9,7 +9,7 @@
 'Enable Lava Spouts ': true
 'Enable Falling Nether ': false
 'Enable Nether Structures ': true
-'Enable Alpha Pigman Sword Drop ': true
+'Enable Alpha Pigman Sword Drop ': false
 'Wither Potion Drops ': false
 'Haste Potion Drops ': false
 'Extended Wither Boss ': false
