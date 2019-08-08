@@ -1,7 +1,7 @@
 # 
 # SilkChests
 silk:
-  perms: false
+  perms: true
   creative: false
   instantly: false
   tools:
