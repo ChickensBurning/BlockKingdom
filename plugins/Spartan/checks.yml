@@ -26,8 +26,8 @@ BoatMove:
   check_packets: true
   compatibility_protection: true
 HitReach:
-  horizontal_distance: 3.5
-  vertical_distance: 4.0
+  horizontal_distance: 3.6
+  vertical_distance: 4.1
   exempt_player_chasing: true
 Speed:
   check_sneaking: true
@@ -41,7 +41,7 @@ Velocity:
   check_opposite: true
   check_direction: true
 FastClicks:
-  cps_limit: 15
+  cps_limit: 16
   check_cps: true
   check_click_time: true
   check_click_consistency: true

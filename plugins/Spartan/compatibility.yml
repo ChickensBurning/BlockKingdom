@@ -1,11 +1,11 @@
 AcidRain:
-  enabled: true
+  enabled: false
   force: false
 AdvancedAbilities:
-  enabled: true
+  enabled: false
   force: false
 CrackShot:
-  enabled: true
+  enabled: false
   force: false
 CraftBook:
   enabled: true
@@ -14,7 +14,7 @@ Essentials:
   enabled: true
   force: false
 MagicSpells:
-  enabled: true
+  enabled: false
   force: false
 ProtocolLib:
   enabled: true
@@ -26,7 +26,7 @@ NoHitDelay:
   enabled: true
   force: false
 ProjectKorra:
-  enabled: true
+  enabled: false
   force: false
 TreeFeller:
   enabled: true
@@ -38,13 +38,13 @@ GrapplingHook:
   enabled: true
   force: false
 ViaRewind:
-  enabled: true
+  enabled: false
   force: false
 RecentPvPMechanics:
   enabled: true
   force: false
 MineBomb:
-  enabled: true
+  enabled: false
   force: false
 SmashHit:
   enabled: true

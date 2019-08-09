@@ -1,5 +1,5 @@
 Punishments:
-  broadcast_on_kick: true
+  broadcast_on_kick: false
   broadcast_on_ban: false
   wave_broadcast_message: true
   run_wave_if_its_full: false
@@ -10,16 +10,16 @@ Logs:
   log_file: true
   log_file_limit: 5000
 Notifications:
-  public_verbose: true
+  public_verbose: false
   verbose_notifications: true
-  enable_verbose_notifications_on_login: false
+  enable_verbose_notifications_on_login: true
   output_silent_check_verbose: true
-  enable_mining_notifications_on_login: false
+  enable_mining_notifications_on_login: true
   violations_reset_message: true
   staff_chat: true
 Teleportation:
   fall_damage_on_teleport: false
-  ground_teleport_on_detection: true
+  ground_teleport_on_detection: false
 Protections:
   explosion_detection_cooldown: 4
   chat_cooldown: 0
@@ -43,7 +43,7 @@ Detections:
   allow_cancelled_hit_checking: false
   update_blocks_upon_teleport: false
   check_locations_around_player: false
-  run_asynchronously: false
+  run_asynchronously: true
 Performance:
   enable_performance_optimizer: true
   enable_false_positive_detection: true
