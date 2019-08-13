@@ -1,0 +1,29 @@
+# Ignore everything.
+*
+
+# Except for these files:
+!*.yml
+!.gitignore
+!server.properties
+!plugins/dynmap/configuration.txt
+!plugins/EpicWorldGenerator/settings.jason
+
+# Even if they are in sub-directories.
+!*/
+
+# But continue to ignore the following:
+data-storage/*
+plugins/BeastCore/DataFiles/*
+plugins/ChestSort/playerdata/*
+plugins/CrazyCrates/data.yml
+plugins/CrazyCrates/Locations.yml
+plugins/DiscordSRV/config.yml
+plugins/dynmap/markers.yml
+plugins/Essentials/userdata/*
+plugins/Essentials/warps/*
+plugins/mcMMO/config.yml
+plugins/Spartan/mysql.yml
+plugins/Spartan/logs/*
+plugins/Stats/config.yml
+plugins/TownyNameUpdater/*
+plugins/VotingPlugin/TopVoter/*
