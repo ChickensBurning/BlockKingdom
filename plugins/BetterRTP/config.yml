@@ -17,7 +17,27 @@ Settings:
   DisableUpdater: false
 Default:
   UseWorldBorder: true
-  Biomes: []
+  Biomes:
+  - FOREST
+  - DESERT
+  - DARK_FOREST
+  - BEACH
+  - BIRCH_FOREST
+  - ICE_SPIKES
+  - JUNGLE_HILLS
+  - JUNGLE EDGE
+  - GIANT_SPRUCE_TAIGA
+  - TAIGA
+  - PLAINS
+  - SWAMP
+  - SNOWY_TUNDRA
+  - SNOWY_MOUNTAINS
+  - JUNGLE
+  - FLOWER_FOREST
+  - DESERT_HILLS
+  - SAVANNA
+  - SAVANNA_PLATEAU
+  - SHATTERED_SAVANNA
   MaxRadius: 9000
   MinRadius: 400
   CenterX: 0
