@@ -11,11 +11,11 @@ Logs:
   log_file_limit: 5000
 Notifications:
   public_verbose: false
-  verbose_notifications: true
-  enable_verbose_notifications_on_login: true
+  verbose_notifications: false
+  enable_verbose_notifications_on_login: false
   output_silent_check_verbose: true
-  enable_mining_notifications_on_login: true
-  violations_reset_message: true
+  enable_mining_notifications_on_login: false
+  violations_reset_message: false
   staff_chat: true
 Teleportation:
   fall_damage_on_teleport: false
