@@ -7,7 +7,7 @@ Furnace:
   82c3a8bb-e53b-4add-be30-08818ffd26da: world:-1475:64:-671
   73792d8c-1d4c-4dbb-8a23-8874e3ece333: world:-2214:73:-178;world_resource:515:14:500;world_resource:515:13:500;world_resource:515:14:501;world_resource:515:14:502;world_resource:515:13:502;world:2121:83:624;world:2121:84:626;world:2121:85:624;world:-2239:55:-184
   18ba634e-eb78-45e4-bad1-c1885fe638da: world_resource:-38:65:318;world_resource:-38:66:318
-  903bd7f5-b440-4c08-a817-772b6861d1d4: world:-3401:66:-3399;world:-3396:64:-3410;world:-3395:64:-3410;world:-3427:7:-3393
+  903bd7f5-b440-4c08-a817-772b6861d1d4: world:-3401:66:-3399;world:-3396:64:-3410;world:-3395:64:-3410;world:-3427:7:-3393;world:-3400:8:-3425;world:-3399:8:-3425;world:-3401:8:-3425;world:-3402:8:-3425
   2c057e34-fc9d-471b-aee6-c20aecaef9e6: world_resource:189:14:-12;world:2121:83:627;world:2121:84:627;world:2121:85:627;world:2121:85:628
   d7394801-5961-45b8-9448-fe5d445122bd: world:1311:89:-3210;world:1312:90:-3210;world:1313:91:-3209
   46d1945c-9e30-4496-b4bb-8716d915e48a: world:-1535:49:-611;world:-1534:49:-612;world:-1536:49:-612;world:-1535:49:-613;world:-1534:50:-606;world:-1534:51:-606;world:-1535:50:-606;world:-1535:51:-606;world:-1535:52:-606;world:-1536:51:-606;world:-1536:50:-606;world:-461:45:-208;world:-1562:58:-626;world:-1564:58:-626;world:-1573:67:-669
@@ -20,11 +20,11 @@ Furnace:
   d11d22f3-907a-431f-83c1-92ade2515887: world:2130:115:616;world:2130:110:616;world:2130:111:616;world:2130:112:616;world:2131:106:619
   023c1fea-59f1-4d63-99ab-dc51b6dfb5d3: world:257:80:7;world:640:72:-881;world:639:72:-881
   71e7de9a-7ca1-4233-8ab9-050482597b38: world:443:12:-171
-  d6c74116-a3a7-4c49-9d17-96cc4dbacced: world_resource:42:69:-161;world:-1574:64:-524;world:-2213:73:-178;world:-2214:74:-178;world:-2213:74:-178;world:-2212:74:-178;world:-2212:73:-178;world:803:64:469;world:-778:66:219
+  d6c74116-a3a7-4c49-9d17-96cc4dbacced: world_resource:42:69:-161;world:-1574:64:-524;world:-2213:73:-178;world:-2214:74:-178;world:-2213:74:-178;world:-2212:74:-178;world:-2212:73:-178;world:803:64:469;world:-759:69:267
   839593ee-6738-41f5-b419-96943f2be5a3: world:275:66:62
   fa0f1dc1-4c4b-4b94-bc3c-d9de62fba23e: world:-1651:53:1916;world:-1650:53:1916;world:-787:57:260;world:-2217:73:-178;world:-2217:74:-178;world:-2217:75:-178;world:-1654:53:1916;world:-1653:53:1916;world_resource:1686:6:1725;world:-1661:53:1913
   8da5e2cc-ad1f-4bd3-ad9b-e0831fd4ded3: world_resource:-496:30:-800;world_resource:1836:19:1993
-  da5fd185-07f6-4187-b349-df1b01703fb3: world:-1592:66:-650;world:-1596:65:-648;world:-1595:65:-648;world:-1594:65:-648
+  da5fd185-07f6-4187-b349-df1b01703fb3: world:-2057:13:3480
   20e6e5a2-dc4d-4521-9468-7ce8224c03df: world:-2232:73:-176
   37b2e6da-586e-43f9-8671-0ea8ede8f38c: world:-1514:64:-683;world:-1514:64:-684;world:-1514:64:-685;world:-1514:65:-683
   e57efef7-801f-4046-b7c8-e710f688ef44: world:644:72:-885
@@ -44,6 +44,7 @@ Furnace:
   b6bb0a32-3f3a-4e47-8db1-026a17cc5bbd: world:-1009:11:-1336;world:-1009:12:-1336
   02cff752-5168-4d2d-9331-ff4102cf15b8: world:-1579:64:-635
   d455043e-4198-41e3-aecf-4ee2ac54f68b: world:-2003:6:3521;world:-2003:6:3517;world:-2003:6:3518;world:-2003:6:3519;world:-2003:6:3520;world:-2003:7:3520;world:-2003:7:3519;world:-2003:7:3518;world:-2003:8:3519
+  330e5205-d525-41ad-a07b-7988c9b22420: world:-1506:64:-646
   8552fda6-4b30-4490-9a94-838b6489dca4: world:-1514:70:-685;world:-1514:71:-685
   e2a6bf0c-2979-493e-99fe-e4f66a7e3773: world:881:69:425
   ea42a580-355a-4981-bed2-65dc5fccbeb6: world:-1603:83:-4009;world:-1604:83:-4009;world:-2239:53:-185;world:-2239:53:-178;world:-2210:33:-173
