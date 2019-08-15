@@ -1204,7 +1204,7 @@ COMMON_TALISMAN:
   required-permission: ''
   recipe-requires-nether-stars: false
 ANVIL_TALISMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1216,7 +1216,7 @@ ENDER_ANVIL_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1236,7 +1236,7 @@ ENDER_MINER_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1256,7 +1256,7 @@ ENDER_HUNTER_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1296,7 +1296,7 @@ ENDER_WATER_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1316,7 +1316,7 @@ ENDER_ANGEL_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1344,7 +1344,7 @@ ENDER_FIRE_TALISMAN:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
 MAGICIAN_TALISMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1538,7 +1538,7 @@ ENDER_MAGICIAN_TALISMAN:
   - '&eEnder Talismans have the advantage'
   - '&eof still working while they'
   - '&eare in your Ender Chest'
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
