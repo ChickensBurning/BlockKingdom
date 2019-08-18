@@ -3,6 +3,7 @@ Messages:
   Player: '&aAcquired Silver Rank!'
 DirectlyDefinedReward: true
 Commands:
+- lp user %player% parent add silver
 - lp user %player% parent remove default
 - bc %player% has voted 10 times and received &7Silver&r rank!
-- lp user %player% parent add silver
+
