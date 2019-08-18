@@ -970,7 +970,8 @@ shops:
         type: item
         item:
           material: GHAST_TEAR
-          quantity: 32
+        buyPrice: 1000
+          quantity: 1
         slot: 23
       13:
         type: item
