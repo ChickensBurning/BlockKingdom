@@ -5,19 +5,6 @@ holograms:
     - §5Welcome to
     - §6HAPPY FAPPY
     - §5Campgrounds
-  welcome:
-    location: world;-32.47030661229976;68.5;-35.497102154820624;90.0;-49.34326
-    lines:
-    - §5§lWelcome to §2§lBlock§3§lKingdom§5§l!
-    - §6§lDeveloped by the players
-    - §6§lfor the players!
-  website:
-    location: world;-29.492042328593215;68.5;-41.50196696493571;83.85;-268.3462
-    lines:
-    - §5§lAll the information
-    - §5§lyou will ever need
-    - §5§lcan be found online at
-    - §6§lhttps://blockkingdom.org
   vote:
     location: world;-32.528199291557996;68.5;-47.482277535980415;90.0;-321.8977
     lines:
@@ -54,3 +41,8 @@ holograms:
     - §5Visit our website at
     - §6blockkingdom.org
     - §5 to join our §6Discord!
+  Welcome:
+    location: world;-34.533444122304495;69.0;-37.60894039783486;31.950026;-224.84149
+    lines:
+    - §5§lWelcome to
+    - §2§lBlock§3§lkingdom

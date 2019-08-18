@@ -98,7 +98,7 @@ VotingPlugin:
       Data: daily
       Position: 4
 PluginVersions:
-  VotingPlugin: 5.19.3
-PrevDay: 14
-PrevWeek: 33
+  VotingPlugin: 5.19.4
+PrevDay: 18
+PrevWeek: 34
 Month: AUGUST

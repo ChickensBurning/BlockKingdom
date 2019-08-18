@@ -2,7 +2,7 @@ Softies:
   Leader: b7d591a6-7fb2-4346-968c-f58d00ea2a4a|SoftNina
   Locked: true
   Level: 10
-  Xp: 1559
+  Xp: 0
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -20,7 +20,7 @@ Pu$$yRippers:
   Leader: 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
   Locked: true
   Level: 10
-  Xp: 3440
+  Xp: 2380
   Ally: ''
   ExpShareMode: EQUAL
   ItemShareMode: NONE
@@ -35,11 +35,12 @@ Pu$$yRippers:
   - 89808db2-8c04-4212-8038-1e8d605f7b89|zKirk
   - 6d8a67f0-1cb6-4e79-9b0d-77be763ad047|iGooMo
   - fff2c457-d1ac-43b7-a0bf-4f33305c5d23|SeantasticSean
+  - b31408a6-cd46-4b06-a9d3-684906da86e9|glojester
 RetiredMC:
   Leader: 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   Locked: true
   Level: 10
-  Xp: 1440
+  Xp: 4260
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -54,15 +55,13 @@ RetiredMC:
   - ea42a580-355a-4981-bed2-65dc5fccbeb6|Grepses
   - b6bb0a32-3f3a-4e47-8db1-026a17cc5bbd|ChickensDying
   - fa0f1dc1-4c4b-4b94-bc3c-d9de62fba23e|End3rduty
-  - 2c057e34-fc9d-471b-aee6-c20aecaef9e6|War_Eagle34
-  - 58619ad3-29e8-41e6-affa-da663472fcc8|tuellie
   - d455043e-4198-41e3-aecf-4ee2ac54f68b|CringeMonster
 Jahaven:
   Leader: 23757a5a-ed62-4ef1-8bb6-62de752f3a94|JahTheSequel
   Password: OnJah
   Locked: true
   Level: 10
-  Xp: 0
+  Xp: 2740
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -82,7 +81,7 @@ quasi=gay:
   Password: lololol
   Locked: true
   Level: 10
-  Xp: 1350
+  Xp: 2150
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -94,4 +93,3 @@ quasi=gay:
     MISC: true
   Members:
   - 1b40ec65-b03a-419b-85bc-2366be4b08b9|t_troublesome
-  - b810c108-3479-4a54-98e5-c74c2951cde7|Kryold

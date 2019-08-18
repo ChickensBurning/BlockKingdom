@@ -1,0 +1,104 @@
+This is the book file.
+
+This file format works similar to the info.txt, motd.txt and rules.txt
+
+Place content in here that you would like to be used by books ingame.
+
+You can use this content by using the book:<section> meta option in kits or item spawning.
+
+#BlockKingdom
+Welcome to &2Block&3Kingdom&r!
+-------------------
+This is your go-to guide on everything that BlockKingdom has to offer!
+-------------------
+&r 
+BlockKingdom Offical
+Website: &1blockkingdom.org
+&r 
+Join our official
+Discord: &1blockkingdom.org/discord
+&5Index&r
+&r 
+Page 3: The Overworld
+&r 
+Pg. 4+5: /Warp
+&r 
+Pg. 6-8: Voting/Towny
+&r 
+Pg. 9+10: Jobs/Auction
+&r 
+Pg. 11: MCMMO
+&r 
+Pg. 12: Slimefun
+The Overworld
+-------------------
+Enter the survival world with /wild.
+The survival world is
+comprised of new biomes such as Mountains and mega Taigas courtesy of custom generation.
+From there, you can start the creation of your new home!
+/Warp Locations (1/2)
+-------------------
+Teleport to a handful of helpful locations using /warp.
+&r 
+- &b/warp resource
+&rTakes you to a resource world that frequently gets reset for new materials.
+DO NOT BUILD IN HERE!
+/Warp Locations (2/2)
+-------------------
+- &b/warp enchant
+&rTeleports you to an area with a fully maxed enchantment table and a Nether Portal.
+&r 
+- &b/warp help
+&rTakes you to a message board with top players and random statistics.
+Voting and Vote Ranks
+-------------------
+To support the server and to get useful ranks, use /vote!
+&r 
+Kits range from 10 votes (Silver) to
+350 votes (Legend).
+Ranks give you privileges, kits, extra /sethomes, and much more!
+Creating a Town (1/2)
+-------------------
+After voting getting the Silver rank, players have the ability to create a town using:
+&b/t new [name]
+&rThis claims your land and protects it from mobs and other players. Use /t claim on unclaimed land to expand your town.
+Creating a Town (2/2)
+-------------------
+To create an outpost (an area not attached to your town), use:
+&b/t claim outpost
+&r 
+To add other players to your town, use the command:
+&b/t invite [Player Name]
+&bGetting a Job (1/2)
+-------------------
+There are many ways to make money on BlockKingdom, and the best way is getting a job.
+&r 
+&b/jobs browse
+&rAllows you to peruse all of the jobs that are available.
+Getting a Job (2/2)
+-------------------
+To take a job, the command is:
+&b/jobs join [JobName]
+&r 
+Regular members get to take 2 jobs at a time, and ranking up allots you more and more jobs the higher up you go.
+Level up MCMMOs
+-------------------
+MCMMOs is an RPG plugin that gives you experience for doing everyday tasks. 
+Upon leveling up your skills, you get special abilities and perks.
+&r 
+Use the command:
+&b/mcrank
+&rto keep track of your skill progress.
+Slimefun Technology
+-------------------
+Each player spawn in with a book called the 
+Slimefun Guide.
+&r 
+This allows access to a plethora of new, custom items to utilize. You use experience points to unlock branches in the guide's tech-tree.
+If you have any more questions & concerns, please visit:
+&1blockkingdom.org/wiki
+&r 
+And feel free to contact our admins on the BlockKingdom official Discord:
+&1blockkingdom.org/discord
+&r 
+We hope you enjoy!
