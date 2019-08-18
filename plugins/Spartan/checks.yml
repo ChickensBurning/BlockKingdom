@@ -125,7 +125,7 @@ Liquids:
   check_block_breaking: true
   check_block_placing: true
 Fly:
-  check_fly: true
+  check_fly: false
   check_glide: true
 ElytraMove:
   check_ratio: true

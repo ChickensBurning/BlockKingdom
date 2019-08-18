@@ -281,10 +281,10 @@ FastHeal:
 Fly:
   enabled: true
   name: Fly
-  violation_divisor: 3
+  violation_divisor: 2
   disabled_worlds: ''
   silent_worlds: ''
-  silent: false
+  silent: true
   cancel_after_violation: 2
   punishments:
     '6':
