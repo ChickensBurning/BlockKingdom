@@ -10,10 +10,26 @@
 # For more information, visit http://wiki.ess3.net/wiki/Kits
 kits:
 #Vote Ranks
+  join:
+    delay: 0
+    items:
+    - written_book 1 title:&2Block&3Kingdom author:Staff lore:Server_Manual|Version:_1.1 book:BlockKingdom
+    - iron_helmet 1
+    - iron_chestplate 1
+    - iron_leggings 1
+    - iron_boots 1
+    - iron_sword 1
+    - iron_shovel 1
+    - iron_pickaxe 1
+    - iron_axe 1
+    - cooked_beef 16
+  manual:
+    delay: 0
+    items:
+    - written_book 1 title:&2Block&3Kingdom author:Staff lore:Server_Manual|Version:_1.1 book:BlockKingdom
   member:
     delay: 604800
     items:
-    - written_book 1 title:&2Block&3Kingdom author:Staff lore:Starter_Guide|Version:_1.0 book:BlockKingdom
     - iron_helmet 1
     - iron_chestplate 1
     - iron_leggings 1

@@ -1,9 +1,5 @@
-# Jones was here
+# 
 # AuctionHouse
-locale: en_us
-decimal_format: '#,##0.00'
-strict: false
-chatHook: true
 blacklist:
   '0':
     item: minecraft:bedrock
@@ -28,6 +24,10 @@ blacklist:
       level: 3
     - ench: minecraft:fire_aspect
       level: 2
+locale: en_us
+decimal_format: '#,##0.00'
+strict: false
+chatHook: true
 sounds:
   click: ui.button.click
   fail: entity.villager.no
@@ -58,6 +58,9 @@ log:
   purged: true
 disabled-worlds: []
 auction:
+  sortOrder: oldest
+  multiworld: false
+  groupWorlds: false
   listingPrice: 0.0
   listingRate: 0.0
   listingDuration: 7d0h0m
@@ -71,10 +74,9 @@ auction:
   salesTax: 0.0
   allowDamagedItems: false
   defaultMaxListings: 45
-  chronological: true
   announce: false
 triggers:
   sign: '[AuctionHouse]'
   block_name: Auction House
   entity_name: Auction House
-configVersion: 12
+configVersion: 13
