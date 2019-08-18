@@ -18,3 +18,11 @@ staff:
     OnDuty: nope
     Rank: admin
     name: ChickensDying
+  zNihility:
+    OnDuty: correct
+    Rank: helper
+    name: zNihility
+  JahTheSequel:
+    OnDuty: correct
+    Rank: helper
+    name: JahTheSequel
