@@ -19,7 +19,7 @@ staff:
     Rank: admin
     name: ChickensDying
   zNihility:
-    OnDuty: correct
+    OnDuty: nope
     Rank: helper
     name: zNihility
   JahTheSequel:
