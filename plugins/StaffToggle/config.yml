@@ -8,7 +8,7 @@
 staff:
   ChickensBurning:
     OnDuty: correct
-    Rank: admin
+    Rank: owner
     name: ChickensBurning
   Sammy5k:
     OnDuty: correct
@@ -20,7 +20,7 @@ staff:
     name: ChickensDying
   zNihility:
     OnDuty: nope
-    Rank: helper
+    Rank: mod
     name: zNihility
   JahTheSequel:
     OnDuty: correct
