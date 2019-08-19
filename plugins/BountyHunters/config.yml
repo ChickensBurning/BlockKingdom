@@ -14,11 +14,11 @@ update-notify: true
 # Looks cool with CHEST, GOLD_NUGGET, REDSTONE...
 bounty-effect:
     enabled: true
-    material: CHEST
+    material: REDSTONE
 
 # Time players have to wait to do /bounty twice.
 # In seconds.
-bounty-set-restriction: 120
+bounty-set-restriction: 60
 
 # When toggled on, claiming a bounty or killing a
 # player illegaly will not longer display a death message.
@@ -61,11 +61,11 @@ auto-bounty:
 # logs on with a bounty. Requires /reload when changed.
 target-login-message:
     format: '&e%player% joined the game with a &6$%bounty%&e bounty!'
-    enabled: true
+    enabled: false
 
 # Drops the player head when claming a bounty.
 drop-head:
-    enabled: false
+    enabled: true
     chance: 100
 
 # Displays player skulls
@@ -77,7 +77,7 @@ display-player-skulls: true
 # advantage to the hunters because they can find the player, but
 # it also lets the target know how many players are tracking him.
 player-tracking:
-    enabled: true
+    enabled: false
     
     # Permission needed to track a
     # player and to buy the compass.
@@ -91,7 +91,7 @@ player-tracking:
     price: 1000
     
     # Cooldowns players need to wait before tracking a player.
-    cooldown: 240
+    cooldown: 1000000
 
 # Min and max bounty rewards.
 # Set max to 0 to remove the max restriction.
@@ -100,13 +100,13 @@ max-reward: 0
 
 # Tax taken when creating a bounty (to fight abuse).
 # In % of the money reward. Must be between 0 and 100.
-tax: 15
+tax: 7.25
 
 # Enables the display of death quotes when claiming a bounty.
 display-death-quote-on-title: false
   
 # Enables leveling rewards.
-enable-level-rewards: true
+enable-level-rewards: false
 
 # Worlds in which the bounty system is completely disabled.
 world-blacklist:
@@ -115,7 +115,7 @@ world-blacklist:
 # You can claim the bounties you create. This also lets
 # people target players using a bounty THEY created.
 # Warning: can be abused.
-own-bounty-claiming: true
+own-bounty-claiming: false
 
 # Displayed formatted numbers (1,345B instead of 1,345,416,416).
 formatted-numbers: true
