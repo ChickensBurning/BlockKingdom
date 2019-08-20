@@ -40,7 +40,7 @@ Crate:
       DisplayItem: 'SUNFLOWER'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 20
+      Chance: 18
       Commands:
         - 'eco give %Player% 500'
     3:
@@ -48,7 +48,7 @@ Crate:
       DisplayItem: 'SUNFLOWER'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 37
+      Chance: 41
       Firework: true
       Commands:
         - 'eco give %Player% 300'
@@ -69,7 +69,7 @@ Crate:
       DisplayItem: 'DIAMOND_SWORD'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 3
+      Chance: 1
       Items:
         - 'Item:DIAMOND_SWORD, Amount:1, Name:&dThe Craftsnow, DAMAGE_ALL:2, FIRE_ASPECT:3, DURABILITY:5'
       DisplayEnchantments:
@@ -82,7 +82,7 @@ Crate:
       DisplayItem: 'DIAMOND_HELMET'
       DisplayAmount: 1
       MaxRange: 100
-      Chance: 3
+      Chance: 1
       Items:
         - 'Item:DIAMOND_HELMET, Amount:1, Name:&dNyte Helmet, PROTECTION_ENVIRONMENTAL:3, LOYALTY:1, DURABILITY:3'
       DisplayEnchantments:
@@ -90,3 +90,14 @@ Crate:
         - 'FIRE_ASPECT:1'
       Messages:
         - '&7You acquired the&5Nyte Helmet&7.'
+    7:
+      DisplayName: '&e&l5 McMMO Credits'
+      DisplayItem: 'SUNFLOWER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 2
+      Firework: true
+      Commands:
+        - 'eco give %Player% 300'
+      Messages:
+        - '&7You just won &a$300&7.'
