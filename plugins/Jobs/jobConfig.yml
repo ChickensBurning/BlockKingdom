@@ -982,11 +982,9 @@ Jobs:
         points: 1.5
         experience: 2
       gold_block:
-        income: -1
         points: 1.5
         experience: 2
       iron_block:
-        income: -1
         points: 1.5
         experience: 2
       oak_slab:
