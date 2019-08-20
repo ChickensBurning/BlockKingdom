@@ -233,7 +233,7 @@ shops:
           material: NETHERRACK
           quantity: 16
         buyPrice: 50
-        sellPrice: 15
+        sellPrice: 1
         slot: 16
         page: 2
       29:
@@ -1019,5 +1019,5 @@ shops:
           material: EGG
           quantity: 
         buyPrice: 35
-        sellPrice: 20
+        sellPrice: 2
         slot: 32
