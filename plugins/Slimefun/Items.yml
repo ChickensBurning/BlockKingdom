@@ -3033,7 +3033,7 @@ PLASTIC_SHEET:
   allow-disenchanting: true
   required-permission: ''
 ANDROID_MEMORY_CORE:
-  enabled: false
+  enabled: true
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
