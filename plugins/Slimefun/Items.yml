@@ -3956,3 +3956,10 @@ COPPER_WIRE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+RADIANT_BACKPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  required-permission: ''

@@ -899,3 +899,7 @@ enable-researching: true
   name: Thinned-down Conductivity
   cost: 15
   enabled: true
+'242':
+  name: Radiant Backpack
+  cost: 25
+  enabled: true

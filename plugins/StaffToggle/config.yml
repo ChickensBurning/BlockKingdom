@@ -15,7 +15,7 @@ staff:
     Rank: admin
     name: Sammy5k
   ChickensDying:
-    OnDuty: correct
+    OnDuty: nope
     Rank: admin
     name: ChickensDying
   zNihility:
@@ -23,6 +23,6 @@ staff:
     Rank: mod
     name: zNihility
   JahTheSequel:
-    OnDuty: correct
+    OnDuty: nope
     Rank: helper
     name: JahTheSequel

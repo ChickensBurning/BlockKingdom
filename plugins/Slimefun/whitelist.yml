@@ -468,6 +468,7 @@ world:
     OUTPUT_CHEST: true
     TABLE_SAW: true
     COPPER_WIRE: true
+    RADIANT_BACKPACK: true
   enabled: true
 world_nether:
   enabled-items:
@@ -939,6 +940,7 @@ world_nether:
     OUTPUT_CHEST: true
     TABLE_SAW: true
     COPPER_WIRE: true
+    RADIANT_BACKPACK: true
   enabled: true
 world_the_end:
   enabled-items:
@@ -1410,6 +1412,7 @@ world_the_end:
     OUTPUT_CHEST: true
     TABLE_SAW: true
     COPPER_WIRE: true
+    RADIANT_BACKPACK: true
   enabled: true
 world_resource:
   enabled: true
@@ -1875,3 +1878,4 @@ world_resource:
     OUTPUT_CHEST: true
     TABLE_SAW: true
     COPPER_WIRE: true
+    RADIANT_BACKPACK: true
