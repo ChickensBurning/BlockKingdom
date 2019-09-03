@@ -1,10 +1,10 @@
-
+ 
 version:
   # This is the current version of Towny.  Please do not edit.
   version: '0.55'
   # This is for showing the changelog on updates.  Please do not edit.
   last_run_version: '0.53'
-
+ 
 ############################################################
 # +------------------------------------------------------+ #
 # |                    ChatConfig.yml                    | #
@@ -63,28 +63,28 @@ version:
 # Bold = &l, Italics = &o, Underlined = &n,
 # Magic = &k, Strike = &m, Reset = &r
 chatconfigcomments: ''
-
+ 
 # Spam_time set the minimum time between messages to be flagged as spam
 spam_time: '0.5'
-
+ 
 # If using our updated HeroicDeath.jar and craftIRC 3.1 (dev), you can
 #configure what IRC channels you want death messages relayed to.
 heroicdeathtoirc:
   enabled: 'true'
   # comma delimited list of craftIRC channel tags 'admin,blah,blah'.
   craftirctags: admin
-
+ 
 channel_formats:
   # This is the format which will be used for GLOBAL chat/channels.
   # This is also the format used when you have modify_chat.enable: true, but use other plugins to handle chat.
-  global: '{modplayername}&8: {msgcolour}{msg}'
+  global: '&8[{group}{townytagoverride}&8] {modplayername}&8: {msgcolour}{msg}'
   # TOWN channel types.
   town: '&8[&3TC{townytag}&8] {townyprefix}{playername}&8: {msgcolour}{msg}'
   # NATION channel types.
   nation: '&8[&2NC{towntagoverride}&8] {townyprefix}{playername}&8: {msgcolour}{msg}'
   # DEFAULT channel types.
-  default: '{modplayername}&8: {msgcolour}{msg}'
-
+  default: '&8[{group}{townytagoverride}&8] {modplayername}&8: {msgcolour}{msg}'
+ 
 tag_formats:
   world: '&8|%s'
   town: '&8|&3%s'
@@ -92,12 +92,12 @@ tag_formats:
   # First %s is the nation tag, second is the town tag.
   # You may also use %t for the town tag and %n for the nation tag!
   both: '&8|&2%s&8|&3%s'
-
+ 
 colour:
   king: '&2'
   mayor: '&3'
   resident: '&f'
-
+ 
 modify_chat:
   # This is used for when you don't have another plugin to format chat.
   # or you want some other plugin to handle open chat, but want Towny formatting.
