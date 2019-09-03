@@ -58,6 +58,9 @@ log:
   purged: true
 disabled-worlds: []
 auction:
+  discord: false
+  discord_channel: auctionhouse
+  replaceUUIDs: false
   sortOrder: oldest
   multiworld: false
   groupWorlds: false
@@ -79,4 +82,4 @@ triggers:
   sign: '[AuctionHouse]'
   block_name: Auction House
   entity_name: Auction House
-configVersion: 13
+configVersion: 15

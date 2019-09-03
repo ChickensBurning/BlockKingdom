@@ -1,5 +1,5 @@
 VotingPlugin:
-  Version: 'git-Spigot-9a643a6-a77ba00 (MC: 1.14.3)'
+  Version: 'git-Spigot-065a373-8d4bc54 (MC: 1.14.4)'
   ServiceSites:
   - SERVERPACT.COM
   - PlanetMinecraft.com
@@ -99,6 +99,6 @@ VotingPlugin:
       Position: 4
 PluginVersions:
   VotingPlugin: 5.19.4
-PrevDay: 26
-PrevWeek: 35
-Month: AUGUST
+PrevDay: 3
+PrevWeek: 36
+Month: SEPTEMBER

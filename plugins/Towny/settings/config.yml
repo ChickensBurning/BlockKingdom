@@ -322,7 +322,7 @@ new_world_settings:
       # wilderness by monsters exploding.
       enabled: 'true'
       entities: Creeper,EnderCrystal,EnderDragon,Fireball,SmallFireball,LargeFireball,TNTPrimed,ExplosiveMinecart
-      delay: 20s
+      delay: 15s
  
  
   ############################################################

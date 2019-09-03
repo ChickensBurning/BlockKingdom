@@ -95,6 +95,8 @@ messages:
   - '&7You have extinguished yourself'
   cannot-place:
   - '&cYou cannot place that block there!'
+  no-pvp:
+  - '&cYou cannot pvp in here!'
 commands:
   help:
   - Displays this Help Screen

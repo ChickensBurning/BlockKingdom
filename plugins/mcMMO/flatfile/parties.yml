@@ -2,7 +2,7 @@ Pu$$yRippers:
   Leader: 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
   Locked: true
   Level: 10
-  Xp: 3960
+  Xp: 480
   Ally: ''
   ExpShareMode: EQUAL
   ItemShareMode: NONE
@@ -14,14 +14,11 @@ Pu$$yRippers:
     MISC: true
   Members:
   - 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
-  - 89808db2-8c04-4212-8038-1e8d605f7b89|zKirk
-  - fff2c457-d1ac-43b7-a0bf-4f33305c5d23|SeantasticSean
-  - b31408a6-cd46-4b06-a9d3-684906da86e9|glojester
 RetiredMC:
   Leader: 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   Locked: true
   Level: 10
-  Xp: 3200
+  Xp: 2060
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -37,11 +34,11 @@ RetiredMC:
   - fa0f1dc1-4c4b-4b94-bc3c-d9de62fba23e|End3rduty
   - d455043e-4198-41e3-aecf-4ee2ac54f68b|CringeMonster
 Jahaven:
-  Leader: 23757a5a-ed62-4ef1-8bb6-62de752f3a94|JahTheSequel
+  Leader: c547797c-4e89-4c4a-89cd-27312fca919e|Ben_Shapir0
   Password: OnJah
   Locked: true
   Level: 10
-  Xp: 1600
+  Xp: 2590
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -52,7 +49,21 @@ Jahaven:
     WOODCUTTING: true
     MISC: true
   Members:
-  - 23757a5a-ed62-4ef1-8bb6-62de752f3a94|JahTheSequel
-  - 0f1e98ce-7ae8-4cff-b7b3-f1f3025a7c59|El_Mexicano_Hdz
-  - 9c831db3-4541-4516-8b38-e76652d6603d|Villhalian
   - c547797c-4e89-4c4a-89cd-27312fca919e|Ben_Shapir0
+fuckit:
+  Leader: cb67e1b7-448a-47b0-af71-1af5eca3299c|BigfootIsReal
+  Locked: true
+  Level: 5
+  Xp: 3176
+  Ally: ''
+  ExpShareMode: NONE
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - cb67e1b7-448a-47b0-af71-1af5eca3299c|BigfootIsReal
+  - 583fb3a5-ae1c-4149-b93f-3b840aa83a3f|breadboy_2011

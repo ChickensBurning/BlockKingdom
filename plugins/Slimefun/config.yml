@@ -12,6 +12,7 @@
 # This Plugin utilises an Auto-Updater. If you want to turn that off,
 # simply set options -> auto-update to false
 options:
+  legacy-ore-grinder: true
   auto-update: true
   armor-update-interval: 10
   give-guide-on-first-join: true

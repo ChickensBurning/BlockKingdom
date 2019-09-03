@@ -1,0 +1,8 @@
+# Directly defined reward file. ANY EDITS HERE CAN GET OVERRIDDEN!
+Messages:
+  Player: '&aAcquired &cChampion &aRank!'
+Commands:
+- bc %player% has voted 260 times and received &cChampion&r rank!
+- lp user %player% parent add champion
+- lp user %player% parent remove master
+DirectlyDefinedReward: true

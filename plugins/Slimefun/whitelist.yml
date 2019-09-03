@@ -469,6 +469,11 @@ world:
     TABLE_SAW: true
     COPPER_WIRE: true
     RADIANT_BACKPACK: true
+    DIET_COOKIE: true
+    EXPLOSIVE_SHOVEL: true
+    AUTO_DRIER: true
+    STAFF_ELEMENTAL_STORM: true
+    ANCIENT_RUNE_LIGHTNING: true
   enabled: true
 world_nether:
   enabled-items:
@@ -941,6 +946,11 @@ world_nether:
     TABLE_SAW: true
     COPPER_WIRE: true
     RADIANT_BACKPACK: true
+    DIET_COOKIE: true
+    EXPLOSIVE_SHOVEL: true
+    AUTO_DRIER: true
+    STAFF_ELEMENTAL_STORM: true
+    ANCIENT_RUNE_LIGHTNING: true
   enabled: true
 world_the_end:
   enabled-items:
@@ -1413,6 +1423,11 @@ world_the_end:
     TABLE_SAW: true
     COPPER_WIRE: true
     RADIANT_BACKPACK: true
+    DIET_COOKIE: true
+    EXPLOSIVE_SHOVEL: true
+    AUTO_DRIER: true
+    STAFF_ELEMENTAL_STORM: true
+    ANCIENT_RUNE_LIGHTNING: true
   enabled: true
 world_resource:
   enabled: true
@@ -1879,3 +1894,8 @@ world_resource:
     TABLE_SAW: true
     COPPER_WIRE: true
     RADIANT_BACKPACK: true
+    DIET_COOKIE: true
+    EXPLOSIVE_SHOVEL: true
+    AUTO_DRIER: true
+    STAFF_ELEMENTAL_STORM: true
+    ANCIENT_RUNE_LIGHTNING: true

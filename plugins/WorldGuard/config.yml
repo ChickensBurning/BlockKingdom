@@ -90,16 +90,16 @@ physics:
     disable-water-damage-blocks: []
 ignition:
     block-tnt: false
-    block-tnt-block-damage: true
+    block-tnt-block-damage: false
     block-lighter: false
 fire:
     disable-lava-fire-spread: true
-    disable-all-fire-spread: false
+    disable-all-fire-spread: true
     disable-fire-spread-blocks: []
     lava-spread-blocks: []
 mobs:
     block-creeper-explosions: false
-    block-creeper-block-damage: true
+    block-creeper-block-damage: false
     block-wither-explosions: false
     block-wither-block-damage: false
     block-wither-skull-explosions: false

@@ -41,8 +41,8 @@ VoteSites:
         Player: '&eThanks for voting on %ServiceSite%!'
   MCSL:
     Enabled: true
-    Name: MinecraftServersList
-    ServiceSite: minecraft-server-list.com
+    Name: MCSL
+    ServiceSite: MCSL
     VoteURL: https://minecraft-server-list.com/server/443601/vote
     VoteDelay: 24
     Item:
@@ -126,17 +126,6 @@ VoteSites:
   MinecraftServersList:
     Enabled: true
     ServiceSite: MinecraftServersList
-    VoteURL: VoteURL
-    VoteDelay: 24
-    Item:
-      Material: GRASS
-      Amount: 1
-    Rewards:
-      Messages:
-        Player: '&aThanks for voting on %ServiceSite%!'
-  (SiteName):
-    Enabled: true
-    ServiceSite: (SiteName)
     VoteURL: VoteURL
     VoteDelay: 24
     Item:

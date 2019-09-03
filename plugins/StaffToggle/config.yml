@@ -19,10 +19,10 @@ staff:
     Rank: admin
     name: ChickensDying
   zNihility:
-    OnDuty: nope
+    OnDuty: correct
     Rank: mod
     name: zNihility
   JahTheSequel:
-    OnDuty: nope
+    OnDuty: correct
     Rank: helper
     name: JahTheSequel

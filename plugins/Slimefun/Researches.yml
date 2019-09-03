@@ -903,3 +903,15 @@ enable-researching: true
   name: Radiant Backpack
   cost: 25
   enabled: true
+'243':
+  name: A Dry Day
+  cost: 15
+  enabled: true
+'244':
+  name: Diet Cookie
+  cost: 3
+  enabled: true
+'245':
+  name: Storm Staff
+  cost: 30
+  enabled: true
