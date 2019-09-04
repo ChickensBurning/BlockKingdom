@@ -35,7 +35,7 @@ Channels:
     general:
         commands: [g,global]
         type: GLOBAL
-        channeltag: 'G'
+        channeltag: 'Discord'
         messagecolour: '&f'
         permission: 'towny.chat.general'
         craftIRCTag: 'admin'

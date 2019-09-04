@@ -846,6 +846,7 @@ GRAPPLING_HOOK:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Grappling-Hook
+  despawn-seconds: 60
 MAGIC_WORKBENCH:
   enabled: true
   can-be-used-in-workbenches: false
