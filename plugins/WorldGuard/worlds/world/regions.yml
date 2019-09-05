@@ -15,13 +15,13 @@ regions:
         max: {x: 250, y: 255, z: 250}
         members:
             groups: [builder]
-            unique-ids: [b7d591a6-7fb2-4346-968c-f58d00ea2a4a]
+            unique-ids: [b7d591a6-7fb2-4346-968c-f58d00ea2a4a, 996ac391-2e0d-4d45-8171-12a80baea242]
         flags:
             build: deny
-            invincible: allow
-            blocked-cmds: [/t new, /t claim outpost, /t claim]
-            fall-damage: deny
             use: allow
+            blocked-cmds: [/t new, /t claim outpost, /t claim]
+            invincible: allow
+            fall-damage: deny
             pvp: deny
             mob-spawning: deny
             fire-spread: deny
