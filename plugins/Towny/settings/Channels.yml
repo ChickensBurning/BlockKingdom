@@ -35,11 +35,12 @@ Channels:
     general:
         commands: [g,global]
         type: GLOBAL
-        channeltag: ''
+        channeltag: '&8[&5Discord&8|'
         messagecolour: '&f'
         permission: 'towny.chat.general'
         craftIRCTag: 'admin'
         range: '-1'
+        hooked: true
 
     town:
         commands: [tc,nationchat]
