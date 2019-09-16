@@ -13,3 +13,5 @@ Vault:
   Economy: true
 WorldGuard:
   Enabled: true
+ProtocolLib:
+  Enabled: true
