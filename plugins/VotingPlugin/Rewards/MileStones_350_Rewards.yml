@@ -1,0 +1,7 @@
+# Directly defined reward file. ANY EDITS HERE CAN GET OVERRIDDEN!
+Messages:
+  Player: '&aAcquired &cLegend &aRank!'
+Commands:
+- bc %player% has voted 350 times and received &2Leg&3end&r rank!
+- lp user %player% group set legend
+DirectlyDefinedReward: true

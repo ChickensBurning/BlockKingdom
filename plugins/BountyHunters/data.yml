@@ -1,8 +1,3 @@
-37b2e6da-586e-43f9-8671-0ea8ede8f38c:
-  reward: 4637.5
-  creator: d455043e-4198-41e3-aecf-4ee2ac54f68b
-  hunters: []
-  up: {}
 b6bb0a32-3f3a-4e47-8db1-026a17cc5bbd:
   reward: 1.0
   creator: c547797c-4e89-4c4a-89cd-27312fca919e
@@ -16,5 +11,10 @@ ca935db3-e53f-47a4-bbff-f1222ba26084:
 a775b0b9-a767-41dd-b99f-7da7aa73e867:
   reward: 463.8
   creator: b6bb0a32-3f3a-4e47-8db1-026a17cc5bbd
+  hunters: []
+  up: {}
+996ac391-2e0d-4d45-8171-12a80baea242:
+  reward: 6956.3
+  creator: d455043e-4198-41e3-aecf-4ee2ac54f68b
   hunters: []
   up: {}

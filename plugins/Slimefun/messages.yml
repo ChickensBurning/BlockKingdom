@@ -97,6 +97,12 @@ messages:
   - '&cYou cannot place that block there!'
   no-pvp:
   - '&cYou cannot pvp in here!'
+  soulbound-rune:
+    fail:
+    - '&cYou can only bind one item to your soul at a time.'
+    success:
+    - '&aYou have successfully bound this item to your soul! You will keep it when
+      you die.'
 commands:
   help:
   - Displays this Help Screen
@@ -213,3 +219,8 @@ android:
       - '&4You cannot rate your own Script!'
       already:
       - '&4You have already left a Rating for this Script!'
+tooltips:
+  item-permission:
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'

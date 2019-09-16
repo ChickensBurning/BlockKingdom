@@ -58,6 +58,8 @@ log:
   purged: true
 disabled-worlds: []
 auction:
+  replacePlayerNames: false
+  dropAtFeet: false
   discord: false
   discord_channel: auctionhouse
   replaceUUIDs: false
@@ -82,4 +84,4 @@ triggers:
   sign: '[AuctionHouse]'
   block_name: Auction House
   entity_name: Auction House
-configVersion: 15
+configVersion: 16

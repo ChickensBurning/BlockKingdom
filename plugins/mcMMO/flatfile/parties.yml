@@ -2,7 +2,7 @@ Pu$$yRippers:
   Leader: 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
   Locked: true
   Level: 10
-  Xp: 480
+  Xp: 2174
   Ally: ''
   ExpShareMode: EQUAL
   ItemShareMode: NONE
@@ -18,7 +18,7 @@ RetiredMC:
   Leader: 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   Locked: true
   Level: 10
-  Xp: 2200
+  Xp: 3900
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -30,7 +30,7 @@ RetiredMC:
     MISC: true
   Members:
   - 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
-  - b6bb0a32-3f3a-4e47-8db1-026a17cc5bbd|ChickensDying
+  - b6bb0a32-3f3a-4e47-8db1-026a17cc5bbd|Jones02Sean
   - fa0f1dc1-4c4b-4b94-bc3c-d9de62fba23e|GrimDoggo
   - d455043e-4198-41e3-aecf-4ee2ac54f68b|CringeMonster
 Jahaven:
@@ -38,7 +38,7 @@ Jahaven:
   Password: OnJah
   Locked: true
   Level: 10
-  Xp: 2310
+  Xp: 2000
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -50,11 +50,12 @@ Jahaven:
     MISC: true
   Members:
   - c547797c-4e89-4c4a-89cd-27312fca919e|Ben_Shapir0
-fuckit:
-  Leader: cb67e1b7-448a-47b0-af71-1af5eca3299c|BigfootIsReal
+BigDickBandits:
+  Leader: 0a32787f-5488-4414-ad5c-472ac155b379|TheHammer420
+  Password: yute
   Locked: true
-  Level: 5
-  Xp: 3176
+  Level: 10
+  Xp: 5040
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -65,5 +66,5 @@ fuckit:
     WOODCUTTING: true
     MISC: true
   Members:
-  - cb67e1b7-448a-47b0-af71-1af5eca3299c|BigfootIsReal
-  - 583fb3a5-ae1c-4149-b93f-3b840aa83a3f|breadboy_2011
+  - 0a32787f-5488-4414-ad5c-472ac155b379|TheHammer420
+  - 4e041efa-8a2d-4dd6-a3d1-1909a420c652|ChillThickums

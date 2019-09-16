@@ -915,3 +915,7 @@ enable-researching: true
   name: Storm Staff
   cost: 30
   enabled: true
+'246':
+  name: Soulbound Rune
+  cost: 60
+  enabled: true

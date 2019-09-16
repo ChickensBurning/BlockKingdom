@@ -3,6 +3,5 @@ Messages:
   Player: '&aAcquired Gold Rank!'
 Commands:
 - bc %player% has voted 30 times and received &6Gold&r rank!
-- lp user %player% parent add gold
-- lp user %player% parent remove silver
+- lp user %player% group set gold
 DirectlyDefinedReward: true

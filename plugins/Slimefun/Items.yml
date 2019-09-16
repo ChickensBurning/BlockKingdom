@@ -7,6 +7,11 @@ ORE_CRUSHER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Crusher
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GRANDMAS_WALKING_STICK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -15,6 +20,11 @@ GRANDMAS_WALKING_STICK:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Walking-Sticks
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GRANDPAS_WALKING_STICK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -23,6 +33,11 @@ GRANDPAS_WALKING_STICK:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Walking-Sticks
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PORTABLE_CRAFTER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -31,6 +46,11 @@ PORTABLE_CRAFTER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Portable-Crafter
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FORTUNE_COOKIE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -39,6 +59,11 @@ FORTUNE_COOKIE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Fortune-Cookie
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_CRAFTING_TABLE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -47,6 +72,11 @@ ENHANCED_CRAFTING_TABLE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PORTABLE_DUSTBIN:
   enabled: true
   can-be-used-in-workbenches: false
@@ -55,6 +85,11 @@ PORTABLE_DUSTBIN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Portable-Dustbin
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BEEF_JERKY:
   enabled: true
   can-be-used-in-workbenches: false
@@ -64,6 +99,11 @@ BEEF_JERKY:
   required-permission: ''
   Saturation: 20
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Beef-Jerky
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GRIND_STONE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -72,6 +112,11 @@ GRIND_STONE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Grind-Stone
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ARMOR_FORGE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -80,6 +125,11 @@ ARMOR_FORGE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Armor-Forge
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COMPRESSOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -88,6 +138,11 @@ COMPRESSOR:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Compressor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MAGIC_LUMP_1:
   enabled: true
   can-be-used-in-workbenches: false
@@ -95,6 +150,11 @@ MAGIC_LUMP_1:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MAGIC_LUMP_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -102,6 +162,11 @@ MAGIC_LUMP_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MAGIC_LUMP_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -109,6 +174,11 @@ MAGIC_LUMP_3:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_LUMP_1:
   enabled: true
   can-be-used-in-workbenches: false
@@ -116,6 +186,11 @@ ENDER_LUMP_1:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_LUMP_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -123,6 +198,11 @@ ENDER_LUMP_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_LUMP_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -130,6 +210,11 @@ ENDER_LUMP_3:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_BACKPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -138,6 +223,11 @@ ENDER_BACKPACK:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ender-Backpack
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -145,6 +235,11 @@ ENDER_HELMET:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_CHESTPLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -152,6 +247,11 @@ ENDER_CHESTPLATE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_LEGGINGS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -159,6 +259,11 @@ ENDER_LEGGINGS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_BOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -166,6 +271,11 @@ ENDER_BOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MAGIC_EYE_OF_ENDER:
   enabled: false
   can-be-used-in-workbenches: false
@@ -173,6 +283,11 @@ MAGIC_EYE_OF_ENDER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MAGIC_SUGAR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -183,6 +298,11 @@ MAGIC_SUGAR:
   effects:
     SPEED: 4
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magic-Sugar
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MONSTER_JERKY:
   enabled: true
   can-be-used-in-workbenches: false
@@ -191,6 +311,11 @@ MONSTER_JERKY:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Monster-Jerky
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SLIME_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -198,6 +323,11 @@ SLIME_HELMET:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SLIME_CHESTPLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -205,6 +335,11 @@ SLIME_CHESTPLATE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SLIME_LEGGINGS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -212,6 +347,11 @@ SLIME_LEGGINGS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SLIME_BOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -219,6 +359,11 @@ SLIME_BOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SWORD_OF_BEHEADING:
   enabled: false
   can-be-used-in-workbenches: false
@@ -233,6 +378,11 @@ SWORD_OF_BEHEADING:
     ZOMBIE: 40
     CREEPER: 40
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Sword-of-Beheading
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MAGICAL_BOOK_COVER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -240,6 +390,11 @@ MAGICAL_BOOK_COVER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BASIC_CIRCUIT_BOARD:
   enabled: true
   can-be-used-in-workbenches: false
@@ -247,6 +402,11 @@ BASIC_CIRCUIT_BOARD:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ADVANCED_CIRCUIT_BOARD:
   enabled: true
   can-be-used-in-workbenches: false
@@ -254,6 +414,11 @@ ADVANCED_CIRCUIT_BOARD:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_PAN:
   enabled: true
   can-be-used-in-workbenches: false
@@ -266,6 +431,11 @@ GOLD_PAN:
     CLAY: 28
     SIFTED_ORE: 15
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Pan
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SIFTED_ORE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -273,6 +443,11 @@ SIFTED_ORE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SMELTERY:
   enabled: true
   can-be-used-in-workbenches: false
@@ -283,6 +458,11 @@ SMELTERY:
   chance:
     fireBreak: 34
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 IGNITION_CHAMBER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -290,6 +470,11 @@ IGNITION_CHAMBER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PRESSURE_CHAMBER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -298,6 +483,11 @@ PRESSURE_CHAMBER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Pressure-Chamber
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BATTERY:
   enabled: true
   can-be-used-in-workbenches: false
@@ -305,6 +495,11 @@ BATTERY:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GLOWSTONE_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -312,6 +507,11 @@ GLOWSTONE_HELMET:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GLOWSTONE_CHESTPLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -319,6 +519,11 @@ GLOWSTONE_CHESTPLATE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GLOWSTONE_LEGGINGS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -326,6 +531,11 @@ GLOWSTONE_LEGGINGS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GLOWSTONE_BOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -333,6 +543,11 @@ GLOWSTONE_BOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DAMASCUS_STEEL_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -341,6 +556,11 @@ DAMASCUS_STEEL_HELMET:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Damascus-Steel-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DAMASCUS_STEEL_CHESTPLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -349,6 +569,11 @@ DAMASCUS_STEEL_CHESTPLATE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Damascus-Steel-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DAMASCUS_STEEL_LEGGINGS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -357,6 +582,11 @@ DAMASCUS_STEEL_LEGGINGS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Damascus-Steel-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DAMASCUS_STEEL_BOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -365,6 +595,11 @@ DAMASCUS_STEEL_BOOTS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Damascus-Steel-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REINFORCED_ALLOY_HELMET:
   enabled: false
   can-be-used-in-workbenches: false
@@ -373,6 +608,11 @@ REINFORCED_ALLOY_HELMET:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REINFORCED_ALLOY_CHESTPLATE:
   enabled: false
   can-be-used-in-workbenches: false
@@ -381,6 +621,11 @@ REINFORCED_ALLOY_CHESTPLATE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REINFORCED_ALLOY_LEGGINGS:
   enabled: false
   can-be-used-in-workbenches: false
@@ -389,6 +634,11 @@ REINFORCED_ALLOY_LEGGINGS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REINFORCED_ALLOY_BOOTS:
   enabled: false
   can-be-used-in-workbenches: false
@@ -397,6 +647,11 @@ REINFORCED_ALLOY_BOOTS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CACTUS_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -405,6 +660,11 @@ CACTUS_HELMET:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cactus-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CACTUS_CHESTPLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -413,6 +673,11 @@ CACTUS_CHESTPLATE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cactus-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CACTUS_LEGGINGS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -421,6 +686,11 @@ CACTUS_LEGGINGS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cactus-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CACTUS_BOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -429,6 +699,11 @@ CACTUS_BOOTS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cactus-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REINFORCED_ALLOY_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -437,6 +712,11 @@ REINFORCED_ALLOY_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HARDENED_METAL_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -444,6 +724,11 @@ HARDENED_METAL_INGOT:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DAMASCUS_STEEL_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -452,6 +737,11 @@ DAMASCUS_STEEL_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STEEL_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -460,6 +750,11 @@ STEEL_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BRONZE_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -468,6 +763,11 @@ BRONZE_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DURALUMIN_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -476,6 +776,11 @@ DURALUMIN_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BILLON_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -484,6 +789,11 @@ BILLON_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BRASS_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -492,6 +802,11 @@ BRASS_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ALUMINUM_BRASS_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -500,6 +815,11 @@ ALUMINUM_BRASS_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ALUMINUM_BRONZE_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -508,6 +828,11 @@ ALUMINUM_BRONZE_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CORINTHIAN_BRONZE_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -516,6 +841,11 @@ CORINTHIAN_BRONZE_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOLDER_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -524,6 +854,11 @@ SOLDER_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SYNTHETIC_SAPPHIRE:
   enabled: true
   can-be-used-in-workbenches: true
@@ -532,6 +867,11 @@ SYNTHETIC_SAPPHIRE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SYNTHETIC_DIAMOND:
   enabled: true
   can-be-used-in-workbenches: true
@@ -540,6 +880,11 @@ SYNTHETIC_DIAMOND:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAW_CARBONADO:
   enabled: true
   can-be-used-in-workbenches: false
@@ -548,6 +893,11 @@ RAW_CARBONADO:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 NICKEL_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -556,6 +906,11 @@ NICKEL_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COBALT_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -564,6 +919,11 @@ COBALT_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARBONADO:
   enabled: true
   can-be-used-in-workbenches: false
@@ -572,6 +932,11 @@ CARBONADO:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FERROSILICON:
   enabled: true
   can-be-used-in-workbenches: false
@@ -580,6 +945,11 @@ FERROSILICON:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 IRON_DUST:
   enabled: true
   can-be-used-in-workbenches: false
@@ -588,6 +958,11 @@ IRON_DUST:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_DUST:
   enabled: true
   can-be-used-in-workbenches: false
@@ -596,6 +971,11 @@ GOLD_DUST:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COPPER_DUST:
   enabled: true
   can-be-used-in-workbenches: false
@@ -604,6 +984,11 @@ COPPER_DUST:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 TIN_DUST:
   enabled: true
   can-be-used-in-workbenches: false
@@ -612,6 +997,11 @@ TIN_DUST:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 LEAD_DUST:
   enabled: true
   can-be-used-in-workbenches: false
@@ -620,6 +1010,11 @@ LEAD_DUST:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SILVER_DUST:
   enabled: true
   can-be-used-in-workbenches: false
@@ -628,6 +1023,11 @@ SILVER_DUST:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ALUMINUM_DUST:
   enabled: true
   can-be-used-in-workbenches: false
@@ -636,6 +1036,11 @@ ALUMINUM_DUST:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ZINC_DUST:
   enabled: true
   can-be-used-in-workbenches: false
@@ -644,6 +1049,11 @@ ZINC_DUST:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MAGNESIUM_DUST:
   enabled: true
   can-be-used-in-workbenches: false
@@ -652,6 +1062,11 @@ MAGNESIUM_DUST:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COPPER_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -660,6 +1075,11 @@ COPPER_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 TIN_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -668,6 +1088,11 @@ TIN_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SILVER_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -676,6 +1101,11 @@ SILVER_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 LEAD_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -684,6 +1114,11 @@ LEAD_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ALUMINUM_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -692,6 +1127,11 @@ ALUMINUM_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ZINC_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -700,6 +1140,11 @@ ZINC_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MAGNESIUM_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -708,6 +1153,11 @@ MAGNESIUM_INGOT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SULFATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -716,6 +1166,11 @@ SULFATE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARBON:
   enabled: true
   can-be-used-in-workbenches: false
@@ -724,6 +1179,11 @@ CARBON:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 WHEAT_FLOUR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -731,6 +1191,11 @@ WHEAT_FLOUR:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STEEL_PLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -738,6 +1203,11 @@ STEEL_PLATE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COMPRESSED_CARBON:
   enabled: true
   can-be-used-in-workbenches: false
@@ -746,6 +1216,11 @@ COMPRESSED_CARBON:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARBON_CHUNK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -754,6 +1229,11 @@ CARBON_CHUNK:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STEEL_THRUSTER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -761,6 +1241,11 @@ STEEL_THRUSTER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 POWER_CRYSTAL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -768,6 +1253,11 @@ POWER_CRYSTAL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DURALUMIN_JETPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -775,6 +1265,11 @@ DURALUMIN_JETPACK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOLDER_JETPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -782,6 +1277,11 @@ SOLDER_JETPACK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BILLON_JETPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -789,6 +1289,11 @@ BILLON_JETPACK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STEEL_JETPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -796,6 +1301,11 @@ STEEL_JETPACK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DAMASCUS_STEEL_JETPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -803,6 +1313,11 @@ DAMASCUS_STEEL_JETPACK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REINFORCED_ALLOY_JETPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -810,6 +1325,11 @@ REINFORCED_ALLOY_JETPACK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARBONADO_JETPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -817,6 +1337,11 @@ CARBONADO_JETPACK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PARACHUTE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -824,6 +1349,11 @@ PARACHUTE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHAIN:
   enabled: true
   can-be-used-in-workbenches: false
@@ -831,6 +1361,11 @@ CHAIN:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HOOK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -838,6 +1373,11 @@ HOOK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GRAPPLING_HOOK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -847,6 +1387,11 @@ GRAPPLING_HOOK:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Grappling-Hook
   despawn-seconds: 60
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MAGIC_WORKBENCH:
   enabled: true
   can-be-used-in-workbenches: false
@@ -855,6 +1400,11 @@ MAGIC_WORKBENCH:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magic-Workbench
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STAFF_ELEMENTAL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -862,6 +1412,11 @@ STAFF_ELEMENTAL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STAFF_ELEMENTAL_WIND:
   enabled: false
   can-be-used-in-workbenches: false
@@ -869,6 +1424,11 @@ STAFF_ELEMENTAL_WIND:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STAFF_ELEMENTAL_WATER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -876,6 +1436,11 @@ STAFF_ELEMENTAL_WATER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DURALUMIN_MULTI_TOOL:
   enabled: false
   can-be-used-in-workbenches: false
@@ -900,6 +1465,11 @@ DURALUMIN_MULTI_TOOL:
       enabled: true
       name: Grappling Hook
       item: GRAPPLING_HOOK
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOLDER_MULTI_TOOL:
   enabled: false
   can-be-used-in-workbenches: false
@@ -924,6 +1494,11 @@ SOLDER_MULTI_TOOL:
       enabled: true
       name: Grappling Hook
       item: GRAPPLING_HOOK
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BILLON_MULTI_TOOL:
   enabled: false
   can-be-used-in-workbenches: false
@@ -948,6 +1523,11 @@ BILLON_MULTI_TOOL:
       enabled: true
       name: Grappling Hook
       item: GRAPPLING_HOOK
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STEEL_MULTI_TOOL:
   enabled: false
   can-be-used-in-workbenches: false
@@ -972,6 +1552,11 @@ STEEL_MULTI_TOOL:
       enabled: true
       name: Grappling Hook
       item: GRAPPLING_HOOK
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DAMASCUS_STEEL_MULTI_TOOL:
   enabled: false
   can-be-used-in-workbenches: false
@@ -996,6 +1581,11 @@ DAMASCUS_STEEL_MULTI_TOOL:
       enabled: true
       name: Grappling Hook
       item: GRAPPLING_HOOK
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REINFORCED_ALLOY_MULTI_TOOL:
   enabled: false
   can-be-used-in-workbenches: false
@@ -1020,6 +1610,11 @@ REINFORCED_ALLOY_MULTI_TOOL:
       enabled: true
       name: Grappling Hook
       item: GRAPPLING_HOOK
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARBONADO_MULTI_TOOL:
   enabled: false
   can-be-used-in-workbenches: false
@@ -1048,6 +1643,11 @@ CARBONADO_MULTI_TOOL:
       enabled: true
       name: Gold Pan
       item: GOLD_PAN
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ORE_WASHER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1056,6 +1656,11 @@ ORE_WASHER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Washer
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_24K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1064,6 +1669,11 @@ GOLD_24K:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_22K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1072,6 +1682,11 @@ GOLD_22K:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_20K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1080,6 +1695,11 @@ GOLD_20K:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_18K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1088,6 +1708,11 @@ GOLD_18K:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_16K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1096,6 +1721,11 @@ GOLD_16K:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_14K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1104,6 +1734,11 @@ GOLD_14K:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_12K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1112,6 +1747,11 @@ GOLD_12K:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_10K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1120,6 +1760,11 @@ GOLD_10K:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_8K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1128,6 +1773,11 @@ GOLD_8K:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_6K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1136,6 +1786,11 @@ GOLD_6K:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_4K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1144,6 +1799,11 @@ GOLD_4K:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STONE_CHUNK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1151,6 +1811,11 @@ STONE_CHUNK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SILICON:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1159,6 +1824,11 @@ SILICON:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOLAR_PANEL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1166,6 +1836,11 @@ SOLAR_PANEL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOLAR_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1174,6 +1849,11 @@ SOLAR_HELMET:
   allow-disenchanting: true
   required-permission: ''
   charge-amount: 0.1
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 LAVA_CRYSTAL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1181,6 +1861,11 @@ LAVA_CRYSTAL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STAFF_ELEMENTAL_FIRE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1188,6 +1873,11 @@ STAFF_ELEMENTAL_FIRE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SMELTERS_PICKAXE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1196,6 +1886,11 @@ SMELTERS_PICKAXE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smelters-Pickaxe
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COMMON_TALISMAN:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1204,6 +1899,11 @@ COMMON_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   recipe-requires-nether-stars: false
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANVIL_TALISMAN:
   enabled: false
   can-be-used-in-workbenches: false
@@ -1212,6 +1912,11 @@ ANVIL_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_ANVIL_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1232,6 +1937,11 @@ MINER_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_MINER_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1244,6 +1954,11 @@ ENDER_MINER_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HUNTER_TALISMAN:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1252,6 +1967,11 @@ HUNTER_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_HUNTER_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1264,6 +1984,11 @@ ENDER_HUNTER_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 LAVA_TALISMAN:
   enabled: false
   can-be-used-in-workbenches: false
@@ -1272,6 +1997,11 @@ LAVA_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_LAVA_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1292,6 +2022,11 @@ WATER_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_WATER_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1304,6 +2039,11 @@ ENDER_WATER_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANGEL_TALISMAN:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1312,6 +2052,11 @@ ANGEL_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_ANGEL_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1324,6 +2069,11 @@ ENDER_ANGEL_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FIRE_TALISMAN:
   enabled: false
   can-be-used-in-workbenches: false
@@ -1332,6 +2082,11 @@ FIRE_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_FIRE_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1534,6 +2289,11 @@ MAGICIAN_TALISMAN:
       level:
         '1': true
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_MAGICIAN_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1554,6 +2314,11 @@ TRAVELLER_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_TRAVELLER_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1574,6 +2339,11 @@ WARRIOR_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_WARRIOR_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1594,6 +2364,11 @@ KNIGHT_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_KNIGHT_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1614,6 +2389,11 @@ GILDED_IRON:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SYNTHETIC_EMERALD:
   enabled: true
   can-be-used-in-workbenches: true
@@ -1622,6 +2402,11 @@ SYNTHETIC_EMERALD:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHAIN_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1630,6 +2415,11 @@ CHAIN_HELMET:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Chain-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHAIN_CHESTPLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1638,6 +2428,11 @@ CHAIN_CHESTPLATE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Chain-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHAIN_LEGGINGS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1646,6 +2441,11 @@ CHAIN_LEGGINGS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Chain-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHAIN_BOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1654,6 +2454,11 @@ CHAIN_BOOTS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Chain-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 WHIRLWIND_TALISMAN:
   enabled: false
   can-be-used-in-workbenches: false
@@ -1662,6 +2467,11 @@ WHIRLWIND_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_WHIRLWIND_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1682,6 +2492,11 @@ WIZARD_TALISMAN:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENDER_WIZARD_TALISMAN:
   hint:
   - '&eEnder Talismans have the advantage'
@@ -1702,6 +2517,11 @@ LUMBER_AXE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Lumber-Axe
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SALT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1709,6 +2529,11 @@ SALT:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HEAVY_CREAM:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1716,6 +2541,11 @@ HEAVY_CREAM:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHEESE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1723,6 +2553,11 @@ CHEESE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BUTTER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1730,6 +2565,11 @@ BUTTER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GILDED_IRON_HELMET:
   enabled: false
   can-be-used-in-workbenches: false
@@ -1738,6 +2578,11 @@ GILDED_IRON_HELMET:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GILDED_IRON_CHESTPLATE:
   enabled: false
   can-be-used-in-workbenches: false
@@ -1746,6 +2591,11 @@ GILDED_IRON_CHESTPLATE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GILDED_IRON_LEGGINGS:
   enabled: false
   can-be-used-in-workbenches: false
@@ -1754,6 +2604,11 @@ GILDED_IRON_LEGGINGS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GILDED_IRON_BOOTS:
   enabled: false
   can-be-used-in-workbenches: false
@@ -1762,6 +2617,11 @@ GILDED_IRON_BOOTS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SCUBA_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1770,6 +2630,11 @@ SCUBA_HELMET:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hazmat-Suit
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HAZMAT_CHESTPLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1778,6 +2643,11 @@ HAZMAT_CHESTPLATE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hazmat-Suit
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HAZMAT_LEGGINGS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1786,6 +2656,11 @@ HAZMAT_LEGGINGS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hazmat-Suit
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RUBBER_BOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1794,6 +2669,11 @@ RUBBER_BOOTS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hazmat-Suit
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CRUSHED_ORE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1801,6 +2681,11 @@ CRUSHED_ORE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PULVERIZED_ORE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1808,6 +2693,11 @@ PULVERIZED_ORE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PURE_ORE_CLUSTER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1815,6 +2705,11 @@ PURE_ORE_CLUSTER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 TINY_URANIUM:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1822,6 +2717,11 @@ TINY_URANIUM:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SMALL_URANIUM:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1829,6 +2729,11 @@ SMALL_URANIUM:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 URANIUM:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1837,6 +2742,11 @@ URANIUM:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radioactive-Materials
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REDSTONE_ALLOY:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1844,6 +2754,11 @@ REDSTONE_ALLOY:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_12K_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1852,6 +2767,11 @@ GOLD_12K_HELMET:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_12K_CHESTPLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1860,6 +2780,11 @@ GOLD_12K_CHESTPLATE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_12K_LEGGINGS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1868,6 +2793,11 @@ GOLD_12K_LEGGINGS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_12K_BOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1876,6 +2806,11 @@ GOLD_12K_BOOTS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Armor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CLOTH:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1883,6 +2818,11 @@ CLOTH:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAG:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1891,6 +2831,11 @@ RAG:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Medical-Supplies
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BANDAGE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1900,6 +2845,11 @@ BANDAGE:
   required-permission: ''
   enable-bleeding: true
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Medical-Supplies
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SPLINT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1909,6 +2859,11 @@ SPLINT:
   required-permission: ''
   enable-broken-legs: true
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Medical-Supplies
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 TIN_CAN:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1916,6 +2871,11 @@ TIN_CAN:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 VITAMINS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1924,6 +2884,11 @@ VITAMINS:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Medical-Supplies
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MEDICINE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1932,6 +2897,11 @@ MEDICINE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Medical-Supplies
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 NIGHT_VISION_GOGGLES:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1939,6 +2909,11 @@ NIGHT_VISION_GOGGLES:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PICKAXE_OF_CONTAINMENT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1947,6 +2922,11 @@ PICKAXE_OF_CONTAINMENT:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Pickaxe-Of-Containment
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HERCULES_PICKAXE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1955,6 +2935,11 @@ HERCULES_PICKAXE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hercules-Pickaxe
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SAW_MILL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1963,6 +2948,11 @@ SAW_MILL:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Saw-Mill
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SLIME_STEEL_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1970,6 +2960,11 @@ SLIME_STEEL_HELMET:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SLIME_STEEL_CHESTPLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1977,6 +2972,11 @@ SLIME_STEEL_CHESTPLATE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SLIME_STEEL_LEGGINGS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1984,6 +2984,11 @@ SLIME_STEEL_LEGGINGS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SLIME_STEEL_BOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1991,6 +2996,11 @@ SLIME_STEEL_BOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BLADE_OF_VAMPIRES:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1999,6 +3009,11 @@ BLADE_OF_VAMPIRES:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Blade-of-Vampires
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DIGITAL_MINER:
   enabled: false
   can-be-used-in-workbenches: false
@@ -2007,6 +3022,11 @@ DIGITAL_MINER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Digital-Miners
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ADVANCED_DIGITAL_MINER:
   enabled: false
   can-be-used-in-workbenches: false
@@ -2015,6 +3035,11 @@ ADVANCED_DIGITAL_MINER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Digital-Miners
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLD_24K_BLOCK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2022,6 +3047,11 @@ GOLD_24K_BLOCK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COMPOSTER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2030,6 +3060,11 @@ COMPOSTER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Composter
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FARMER_SHOES:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2037,6 +3072,11 @@ FARMER_SHOES:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 EXPLOSIVE_PICKAXE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2052,6 +3092,11 @@ EXPLOSIVE_PICKAXE:
   - COMMAND_REPEATING
   damage-on-use: false
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Explosive-Pickaxe
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 AUTOMATED_PANNING_MACHINE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2059,6 +3104,11 @@ AUTOMATED_PANNING_MACHINE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BOOTS_OF_THE_STOMPER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2066,6 +3116,11 @@ BOOTS_OF_THE_STOMPER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PICKAXE_OF_THE_SEEKER:
   enabled: false
   can-be-used-in-workbenches: false
@@ -2074,6 +3129,11 @@ PICKAXE_OF_THE_SEEKER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Pickaxe-Of-The-Seeker
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SMALL_BACKPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2082,6 +3142,11 @@ SMALL_BACKPACK:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MEDIUM_BACKPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2090,6 +3155,11 @@ MEDIUM_BACKPACK:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 LARGE_BACKPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2098,6 +3168,11 @@ LARGE_BACKPACK:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 WOVEN_BACKPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2106,6 +3181,11 @@ WOVEN_BACKPACK:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CRUCIBLE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2114,6 +3194,11 @@ CRUCIBLE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Crucible
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GILDED_BACKPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2122,6 +3207,11 @@ GILDED_BACKPACK:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MAGNET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2129,6 +3219,11 @@ MAGNET:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 INFUSED_MAGNET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2136,6 +3231,11 @@ INFUSED_MAGNET:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COBALT_PICKAXE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2143,6 +3243,11 @@ COBALT_PICKAXE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 NECROTIC_SKULL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2150,6 +3255,11 @@ NECROTIC_SKULL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ESSENCE_OF_AFTERLIFE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2157,6 +3267,11 @@ ESSENCE_OF_AFTERLIFE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BOUND_BACKPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2165,6 +3280,11 @@ BOUND_BACKPACK:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DURALUMIN_JETBOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2172,6 +3292,11 @@ DURALUMIN_JETBOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOLDER_JETBOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2179,6 +3304,11 @@ SOLDER_JETBOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BILLON_JETBOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2186,6 +3316,11 @@ BILLON_JETBOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STEEL_JETBOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2193,6 +3328,11 @@ STEEL_JETBOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DAMASCUS_STEEL_JETBOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2200,6 +3340,11 @@ DAMASCUS_STEEL_JETBOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REINFORCED_ALLOY_JETBOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2207,6 +3352,11 @@ REINFORCED_ALLOY_JETBOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARBONADO_JETBOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2214,6 +3364,11 @@ CARBONADO_JETBOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ARMORED_JETBOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2221,6 +3376,11 @@ ARMORED_JETBOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SEISMIC_AXE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2229,6 +3389,11 @@ SEISMIC_AXE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Seismic-Axe
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PICKAXE_OF_VEIN_MINING:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2237,6 +3402,11 @@ PICKAXE_OF_VEIN_MINING:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Pickaxe-Of-Vein-Mining
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOULBOUND_SWORD:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2245,6 +3415,11 @@ SOULBOUND_SWORD:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Weapons
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOULBOUND_BOW:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2253,6 +3428,11 @@ SOULBOUND_BOW:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Weapons
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOULBOUND_PICKAXE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2261,6 +3441,11 @@ SOULBOUND_PICKAXE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Tools
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOULBOUND_AXE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2269,6 +3454,11 @@ SOULBOUND_AXE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Tools
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOULBOUND_SHOVEL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2277,6 +3467,11 @@ SOULBOUND_SHOVEL:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Tools
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOULBOUND_HOE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2285,6 +3480,11 @@ SOULBOUND_HOE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Tools
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOULBOUND_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2292,6 +3492,11 @@ SOULBOUND_HELMET:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOULBOUND_CHESTPLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2299,6 +3504,11 @@ SOULBOUND_CHESTPLATE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOULBOUND_LEGGINGS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2306,6 +3516,11 @@ SOULBOUND_LEGGINGS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOULBOUND_BOOTS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2313,6 +3528,11 @@ SOULBOUND_BOOTS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 JUICER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2321,6 +3541,11 @@ JUICER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juicer
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 APPLE_JUICE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2329,6 +3554,11 @@ APPLE_JUICE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARROT_JUICE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2337,6 +3567,11 @@ CARROT_JUICE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MELON_JUICE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2345,6 +3580,11 @@ MELON_JUICE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PUMPKIN_JUICE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2353,6 +3593,11 @@ PUMPKIN_JUICE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GOLDEN_APPLE_JUICE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2361,6 +3606,11 @@ GOLDEN_APPLE_JUICE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BROKEN_SPAWNER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2368,6 +3618,11 @@ BROKEN_SPAWNER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REINFORCED_SPAWNER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2375,6 +3630,11 @@ REINFORCED_SPAWNER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_FURNACE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2383,6 +3643,11 @@ ENHANCED_FURNACE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_FURNACE_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2391,6 +3656,11 @@ ENHANCED_FURNACE_2:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_FURNACE_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2399,6 +3669,11 @@ ENHANCED_FURNACE_3:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_FURNACE_4:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2407,6 +3682,11 @@ ENHANCED_FURNACE_4:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_FURNACE_5:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2415,6 +3695,11 @@ ENHANCED_FURNACE_5:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_FURNACE_6:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2423,6 +3708,11 @@ ENHANCED_FURNACE_6:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_FURNACE_7:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2431,6 +3721,11 @@ ENHANCED_FURNACE_7:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_FURNACE_8:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2439,6 +3734,11 @@ ENHANCED_FURNACE_8:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_FURNACE_9:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2447,6 +3747,11 @@ ENHANCED_FURNACE_9:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_FURNACE_10:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2455,6 +3760,11 @@ ENHANCED_FURNACE_10:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENHANCED_FURNACE_11:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2463,6 +3773,11 @@ ENHANCED_FURNACE_11:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REINFORCED_FURNACE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2471,6 +3786,11 @@ REINFORCED_FURNACE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARBONADO_EDGED_FURNACE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2479,6 +3799,11 @@ CARBONADO_EDGED_FURNACE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRO_MAGNET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2486,6 +3811,11 @@ ELECTRO_MAGNET:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_MOTOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2493,6 +3823,11 @@ ELECTRIC_MOTOR:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HEATING_COIL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2500,6 +3835,11 @@ HEATING_COIL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BLOCK_PLACER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2509,6 +3849,11 @@ BLOCK_PLACER:
   required-permission: ''
   unplaceable-blocks:
   - STRUCTURE_BLOCK
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SCROLL_OF_DIMENSIONAL_TELEPOSITION:
   enabled: false
   can-be-used-in-workbenches: false
@@ -2516,6 +3861,11 @@ SCROLL_OF_DIMENSIONAL_TELEPOSITION:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 EXPLOSIVE_BOW:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2524,6 +3874,11 @@ EXPLOSIVE_BOW:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Special-Bows
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ICY_BOW:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2532,6 +3887,11 @@ ICY_BOW:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Special-Bows
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 TOME_OF_KNOWLEDGE_SHARING:
   enabled: false
   can-be-used-in-workbenches: false
@@ -2539,6 +3899,11 @@ TOME_OF_KNOWLEDGE_SHARING:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FLASK_OF_KNOWLEDGE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2546,6 +3911,11 @@ FLASK_OF_KNOWLEDGE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BIRTHDAY_CAKE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2553,6 +3923,11 @@ BIRTHDAY_CAKE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_MILK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2560,6 +3935,11 @@ CHRISTMAS_MILK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_CHOCOLATE_MILK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2567,6 +3947,11 @@ CHRISTMAS_CHOCOLATE_MILK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_EGG_NOG:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2574,6 +3959,11 @@ CHRISTMAS_EGG_NOG:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_APPLE_CIDER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2581,6 +3971,11 @@ CHRISTMAS_APPLE_CIDER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_COOKIE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2588,6 +3983,11 @@ CHRISTMAS_COOKIE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_FRUIT_CAKE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2595,6 +3995,11 @@ CHRISTMAS_FRUIT_CAKE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_APPLE_PIE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2602,6 +4007,11 @@ CHRISTMAS_APPLE_PIE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_HOT_CHOCOLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2609,6 +4019,11 @@ CHRISTMAS_HOT_CHOCOLATE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_CAKE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2616,6 +4031,11 @@ CHRISTMAS_CAKE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_CARAMEL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2623,6 +4043,11 @@ CHRISTMAS_CARAMEL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_CARAMEL_APPLE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2630,6 +4055,11 @@ CHRISTMAS_CARAMEL_APPLE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_CHOCOLATE_APPLE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2637,6 +4067,11 @@ CHRISTMAS_CHOCOLATE_APPLE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHRISTMAS_PRESENT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2644,6 +4079,11 @@ CHRISTMAS_PRESENT:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 EASTER_CARROT_PIE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2651,6 +4091,11 @@ EASTER_CARROT_PIE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 EASTER_APPLE_PIE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2658,6 +4103,11 @@ EASTER_APPLE_PIE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 EASTER_EGG:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2665,6 +4115,11 @@ EASTER_EGG:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REINFORCED_PLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2672,6 +4127,11 @@ REINFORCED_PLATE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HARDENED_GLASS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2679,6 +4139,11 @@ HARDENED_GLASS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOLAR_ARRAY:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2686,6 +4151,11 @@ SOLAR_ARRAY:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COOLING_UNIT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2693,6 +4163,11 @@ COOLING_UNIT:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COOLER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2701,6 +4176,11 @@ COOLER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cooler
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 WITHER_PROOF_OBSIDIAN:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2708,6 +4188,11 @@ WITHER_PROOF_OBSIDIAN:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANCIENT_PEDESTAL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2716,6 +4201,11 @@ ANCIENT_PEDESTAL:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/mx2Y5DP8uZI
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANCIENT_ALTAR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2724,6 +4214,11 @@ ANCIENT_ALTAR:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/mx2Y5DP8uZI
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENERGY_REGULATOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2733,6 +4228,11 @@ ENERGY_REGULATOR:
   required-permission: ''
   youtube: https://youtu.be/QvSUfBYagXk
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DUCT_TAPE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2740,6 +4240,11 @@ DUCT_TAPE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SMALL_CAPACITOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2748,6 +4253,11 @@ SMALL_CAPACITOR:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MEDIUM_CAPACITOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2756,6 +4266,11 @@ MEDIUM_CAPACITOR:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BIG_CAPACITOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2764,6 +4279,11 @@ BIG_CAPACITOR:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 LARGE_CAPACITOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2772,6 +4292,11 @@ LARGE_CAPACITOR:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARBONADO_EDGED_CAPACITOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2780,6 +4305,11 @@ CARBONADO_EDGED_CAPACITOR:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOLAR_GENERATOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2789,6 +4319,11 @@ SOLAR_GENERATOR:
   required-permission: ''
   youtube: https://youtu.be/kOopBkiRzjs
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOLAR_GENERATOR_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2798,6 +4333,11 @@ SOLAR_GENERATOR_2:
   required-permission: ''
   youtube: https://youtu.be/kOopBkiRzjs
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOLAR_GENERATOR_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2807,6 +4347,11 @@ SOLAR_GENERATOR_3:
   required-permission: ''
   youtube: https://youtu.be/kOopBkiRzjs
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOLAR_GENERATOR_4:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2816,6 +4361,11 @@ SOLAR_GENERATOR_4:
   required-permission: ''
   youtube: https://youtu.be/kOopBkiRzjs
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CHARGING_BENCH:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2824,6 +4374,11 @@ CHARGING_BENCH:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Charging-Station
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_FURNACE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2832,6 +4387,11 @@ ELECTRIC_FURNACE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Furnace
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_FURNACE_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2840,6 +4400,11 @@ ELECTRIC_FURNACE_2:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Furnace
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_FURNACE_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2848,6 +4413,11 @@ ELECTRIC_FURNACE_3:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Furnace
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_GOLD_PAN:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2857,6 +4427,11 @@ ELECTRIC_GOLD_PAN:
   required-permission: ''
   youtube: https://youtu.be/A6OuK7sfnaI
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Gold-Pan
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_GOLD_PAN_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2865,6 +4440,11 @@ ELECTRIC_GOLD_PAN_2:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Gold-Pan
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_GOLD_PAN_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2873,6 +4453,11 @@ ELECTRIC_GOLD_PAN_3:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Gold-Pan
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_DUST_WASHER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2881,6 +4466,11 @@ ELECTRIC_DUST_WASHER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/A6OuK7sfnaI
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_DUST_WASHER_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2888,6 +4478,11 @@ ELECTRIC_DUST_WASHER_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_DUST_WASHER_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2895,6 +4490,11 @@ ELECTRIC_DUST_WASHER_3:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_INGOT_FACTORY:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2903,6 +4503,11 @@ ELECTRIC_INGOT_FACTORY:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/A6OuK7sfnaI
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_INGOT_FACTORY_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2910,6 +4515,11 @@ ELECTRIC_INGOT_FACTORY_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_INGOT_FACTORY_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2917,6 +4527,11 @@ ELECTRIC_INGOT_FACTORY_3:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIFIED_CRUCIBLE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2924,6 +4539,11 @@ ELECTRIFIED_CRUCIBLE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIFIED_CRUCIBLE_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2931,6 +4551,11 @@ ELECTRIFIED_CRUCIBLE_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIFIED_CRUCIBLE_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2938,6 +4563,11 @@ ELECTRIFIED_CRUCIBLE_3:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_ORE_GRINDER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2946,6 +4576,11 @@ ELECTRIC_ORE_GRINDER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/A6OuK7sfnaI
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_ORE_GRINDER_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2953,6 +4588,11 @@ ELECTRIC_ORE_GRINDER_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HEATED_PRESSURE_CHAMBER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2960,6 +4600,11 @@ HEATED_PRESSURE_CHAMBER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HEATED_PRESSURE_CHAMBER_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2967,6 +4612,11 @@ HEATED_PRESSURE_CHAMBER_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_INGOT_PULVERIZER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2974,6 +4624,11 @@ ELECTRIC_INGOT_PULVERIZER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COAL_GENERATOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2981,6 +4636,11 @@ COAL_GENERATOR:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BIO_REACTOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2988,6 +4648,11 @@ BIO_REACTOR:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 AUTO_ENCHANTER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -2996,6 +4661,11 @@ AUTO_ENCHANTER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Auto-Enchanter
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 AUTO_DISENCHANTER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3004,6 +4674,11 @@ AUTO_DISENCHANTER:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Auto-Disenchanter
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 AUTO_ANVIL:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3011,6 +4686,11 @@ AUTO_ANVIL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 AUTO_ANVIL_2:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3018,6 +4698,11 @@ AUTO_ANVIL_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MULTIMETER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3026,6 +4711,11 @@ MULTIMETER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/QvSUfBYagXk
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PLASTIC_SHEET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3033,6 +4723,11 @@ PLASTIC_SHEET:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANDROID_MEMORY_CORE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3040,6 +4735,11 @@ ANDROID_MEMORY_CORE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_TRANSMITTER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3048,6 +4748,11 @@ GPS_TRANSMITTER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/kOopBkiRzjs
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_TRANSMITTER_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3056,6 +4761,11 @@ GPS_TRANSMITTER_2:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/kOopBkiRzjs
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_TRANSMITTER_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3064,6 +4774,11 @@ GPS_TRANSMITTER_3:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/kOopBkiRzjs
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_TRANSMITTER_4:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3072,6 +4787,11 @@ GPS_TRANSMITTER_4:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/kOopBkiRzjs
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_CONTROL_PANEL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3080,6 +4800,11 @@ GPS_CONTROL_PANEL:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/kOopBkiRzjs
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_MARKER_TOOL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3087,6 +4812,11 @@ GPS_MARKER_TOOL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_EMERGENCY_TRANSMITTER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3094,6 +4824,11 @@ GPS_EMERGENCY_TRANSMITTER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3101,6 +4836,11 @@ PROGRAMMABLE_ANDROID:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_MINER:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3108,6 +4848,11 @@ PROGRAMMABLE_ANDROID_MINER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_FARMER:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3115,6 +4860,11 @@ PROGRAMMABLE_ANDROID_FARMER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_WOODCUTTER:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3123,6 +4873,11 @@ PROGRAMMABLE_ANDROID_WOODCUTTER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/AGLsWSMs6A0
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_FISHERMAN:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3130,6 +4885,11 @@ PROGRAMMABLE_ANDROID_FISHERMAN:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_BUTCHER:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3138,6 +4898,11 @@ PROGRAMMABLE_ANDROID_BUTCHER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/G-re3qV-LJQ
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANDROID_INTERFACE_ITEMS:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3145,6 +4910,11 @@ ANDROID_INTERFACE_ITEMS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANDROID_INTERFACE_FUEL:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3152,6 +4922,11 @@ ANDROID_INTERFACE_FUEL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_2:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3159,6 +4934,11 @@ PROGRAMMABLE_ANDROID_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_2_FISHERMAN:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3166,6 +4946,11 @@ PROGRAMMABLE_ANDROID_2_FISHERMAN:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_2_BUTCHER:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3174,6 +4959,11 @@ PROGRAMMABLE_ANDROID_2_BUTCHER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/G-re3qV-LJQ
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_2_FARMER:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3181,6 +4971,11 @@ PROGRAMMABLE_ANDROID_2_FARMER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_3:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3188,6 +4983,11 @@ PROGRAMMABLE_ANDROID_3:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_3_FISHERMAN:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3195,6 +4995,11 @@ PROGRAMMABLE_ANDROID_3_FISHERMAN:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PROGRAMMABLE_ANDROID_3_BUTCHER:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3202,6 +5007,11 @@ PROGRAMMABLE_ANDROID_3_BUTCHER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BLANK_RUNE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3209,6 +5019,11 @@ BLANK_RUNE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANCIENT_RUNE_AIR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3216,6 +5031,11 @@ ANCIENT_RUNE_AIR:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANCIENT_RUNE_EARTH:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3223,6 +5043,11 @@ ANCIENT_RUNE_EARTH:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANCIENT_RUNE_FIRE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3230,6 +5055,11 @@ ANCIENT_RUNE_FIRE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANCIENT_RUNE_WATER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3237,6 +5067,11 @@ ANCIENT_RUNE_WATER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANCIENT_RUNE_ENDER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3244,6 +5079,11 @@ ANCIENT_RUNE_ENDER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANCIENT_RUNE_RAINBOW:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3251,6 +5091,11 @@ ANCIENT_RUNE_RAINBOW:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 INFERNAL_BONEMEAL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3259,6 +5104,11 @@ INFERNAL_BONEMEAL:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/gKxWqMlJDXY
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELYTRA_SCALE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3266,6 +5116,11 @@ ELYTRA_SCALE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELYTRA:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3273,6 +5128,11 @@ ELYTRA:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 INFUSED_ELYTRA:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3280,6 +5140,11 @@ INFUSED_ELYTRA:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SOULBOUND_ELYTRA:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3287,6 +5152,11 @@ SOULBOUND_ELYTRA:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_WOOL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3295,6 +5165,11 @@ RAINBOW_WOOL:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/csvb0CxofdA
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_GLASS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3303,6 +5178,11 @@ RAINBOW_GLASS:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/csvb0CxofdA
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_GLASS_PANE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3311,6 +5191,11 @@ RAINBOW_GLASS_PANE:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/csvb0CxofdA
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_CLAY:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3319,6 +5204,11 @@ RAINBOW_CLAY:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/csvb0CxofdA
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_WOOL_XMAS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3327,6 +5217,11 @@ RAINBOW_WOOL_XMAS:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/l4pKk4SDE
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_GLASS_XMAS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3335,6 +5230,11 @@ RAINBOW_GLASS_XMAS:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/l4pKk4SDE
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_GLASS_PANE_XMAS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3343,6 +5243,11 @@ RAINBOW_GLASS_PANE_XMAS:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/l4pKk4SDE
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_CLAY_XMAS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3351,6 +5256,11 @@ RAINBOW_CLAY_XMAS:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/l4pKk4SDE
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_WOOL_VALENTINE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3358,6 +5268,11 @@ RAINBOW_WOOL_VALENTINE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_GLASS_VALENTINE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3365,6 +5280,11 @@ RAINBOW_GLASS_VALENTINE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_GLASS_PANE_VALENTINE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3372,6 +5292,11 @@ RAINBOW_GLASS_PANE_VALENTINE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RAINBOW_CLAY_VALENTINE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3379,6 +5304,11 @@ RAINBOW_CLAY_VALENTINE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 WITHER_PROOF_GLASS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3386,6 +5316,11 @@ WITHER_PROOF_GLASS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_GEO_SCANNER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3394,6 +5329,11 @@ GPS_GEO_SCANNER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/_XmJ6hrv9uY
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 OIL_PUMP:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3402,6 +5342,11 @@ OIL_PUMP:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/_XmJ6hrv9uY
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 NETHER_DRILL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3409,6 +5354,11 @@ NETHER_DRILL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BUCKET_OF_OIL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3418,6 +5368,11 @@ BUCKET_OF_OIL:
   required-permission: ''
   youtube: https://youtu.be/_XmJ6hrv9uY
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Oil
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BUCKET_OF_FUEL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3427,6 +5382,11 @@ BUCKET_OF_FUEL:
   required-permission: ''
   youtube: https://youtu.be/_XmJ6hrv9uY
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Oil
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 NETHER_ICE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3434,6 +5394,11 @@ NETHER_ICE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REFINERY:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3442,6 +5407,11 @@ REFINERY:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/_XmJ6hrv9uY
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 LAVA_GENERATOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3449,6 +5419,11 @@ LAVA_GENERATOR:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COMBUSTION_REACTOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3457,6 +5432,11 @@ COMBUSTION_REACTOR:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/QvSUfBYagXk
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_TELEPORTER_PYLON:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3465,6 +5445,11 @@ GPS_TELEPORTER_PYLON:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/ZnEhG8Kw6zU
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_TELEPORTATION_MATRIX:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3473,6 +5458,11 @@ GPS_TELEPORTATION_MATRIX:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/ZnEhG8Kw6zU
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_ACTIVATION_DEVICE_SHARED:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3480,6 +5470,11 @@ GPS_ACTIVATION_DEVICE_SHARED:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 GPS_ACTIVATION_DEVICE_PERSONAL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3487,6 +5482,11 @@ GPS_ACTIVATION_DEVICE_PERSONAL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 HOLOGRAM_PROJECTOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3494,6 +5494,11 @@ HOLOGRAM_PROJECTOR:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 INFUSED_HOPPER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3502,6 +5507,11 @@ INFUSED_HOPPER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/_H2HGwkfBh8
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BLISTERING_INGOT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3511,6 +5521,11 @@ BLISTERING_INGOT:
   required-permission: ''
   youtube: https://youtu.be/mPhKUv4JR_Y
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BLISTERING_INGOT_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3520,6 +5535,11 @@ BLISTERING_INGOT_2:
   required-permission: ''
   youtube: https://youtu.be/mPhKUv4JR_Y
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BLISTERING_INGOT_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3529,6 +5549,11 @@ BLISTERING_INGOT_3:
   required-permission: ''
   youtube: https://youtu.be/mPhKUv4JR_Y
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ENRICHED_NETHER_ICE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3536,6 +5561,11 @@ ENRICHED_NETHER_ICE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELEVATOR_PLATE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3544,6 +5574,11 @@ ELEVATOR_PLATE:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/OdKMjo6vNIs
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FOOD_FABRICATOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3552,6 +5587,11 @@ FOOD_FABRICATOR:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/qJdFfvTGOmI
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FOOD_FABRICATOR_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3559,6 +5599,11 @@ FOOD_FABRICATOR_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 WHEAT_ORGANIC_FOOD:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3566,6 +5611,11 @@ WHEAT_ORGANIC_FOOD:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARROT_ORGANIC_FOOD:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3573,6 +5623,11 @@ CARROT_ORGANIC_FOOD:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 POTATO_ORGANIC_FOOD:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3580,6 +5635,11 @@ POTATO_ORGANIC_FOOD:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SEEDS_ORGANIC_FOOD:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3587,6 +5647,11 @@ SEEDS_ORGANIC_FOOD:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BEETROOT_ORGANIC_FOOD:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3594,6 +5659,11 @@ BEETROOT_ORGANIC_FOOD:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MELON_ORGANIC_FOOD:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3601,6 +5671,11 @@ MELON_ORGANIC_FOOD:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 APPLE_ORGANIC_FOOD:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3608,6 +5683,11 @@ APPLE_ORGANIC_FOOD:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 AUTO_BREEDER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3616,6 +5696,11 @@ AUTO_BREEDER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/qJdFfvTGOmI
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANIMAL_GROWTH_ACCELERATOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3624,6 +5709,11 @@ ANIMAL_GROWTH_ACCELERATOR:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/bV4wEaSxXFw
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 XP_COLLECTOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3632,6 +5722,11 @@ XP_COLLECTOR:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/fHtJDPeLMlg
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FOOD_COMPOSTER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3640,6 +5735,11 @@ FOOD_COMPOSTER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/LjzUlFKAHCI
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FOOD_COMPOSTER_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3647,6 +5747,11 @@ FOOD_COMPOSTER_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 WHEAT_FERTILIZER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3654,6 +5759,11 @@ WHEAT_FERTILIZER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARROT_FERTILIZER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3661,6 +5771,11 @@ CARROT_FERTILIZER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 POTATO_FERTILIZER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3668,6 +5783,11 @@ POTATO_FERTILIZER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 SEEDS_FERTILIZER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3675,6 +5795,11 @@ SEEDS_FERTILIZER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BEETROOT_FERTILIZER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3682,6 +5807,11 @@ BEETROOT_FERTILIZER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 MELON_FERTILIZER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3689,6 +5819,11 @@ MELON_FERTILIZER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 APPLE_FERTILIZER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3696,6 +5831,11 @@ APPLE_FERTILIZER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CROP_GROWTH_ACCELERATOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3704,6 +5844,11 @@ CROP_GROWTH_ACCELERATOR:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/LjzUlFKAHCI
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CROP_GROWTH_ACCELERATOR_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3711,6 +5856,11 @@ CROP_GROWTH_ACCELERATOR_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FREEZER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3718,6 +5868,11 @@ FREEZER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FREEZER_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3725,6 +5880,11 @@ FREEZER_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REACTOR_COOLANT_CELL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3732,6 +5892,11 @@ REACTOR_COOLANT_CELL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 NETHER_ICE_COOLANT_CELL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3739,6 +5904,11 @@ NETHER_ICE_COOLANT_CELL:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 NEPTUNIUM:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3747,6 +5917,11 @@ NEPTUNIUM:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radioactive-Materials
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 PLUTONIUM:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3755,6 +5930,11 @@ PLUTONIUM:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radioactive-Materials
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 BOOSTED_URANIUM:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3763,6 +5943,11 @@ BOOSTED_URANIUM:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radioactive-Materials
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 NUCLEAR_REACTOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3770,6 +5955,11 @@ NUCLEAR_REACTOR:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 NETHERSTAR_REACTOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3777,6 +5967,11 @@ NETHERSTAR_REACTOR:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARGO_MOTOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3785,6 +5980,11 @@ CARGO_MOTOR:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Motor
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARGO_MANAGER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3794,6 +5994,11 @@ CARGO_MANAGER:
   required-permission: ''
   youtube: https://youtu.be/Lt2aGw5lQPI
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Manager
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARGO_NODE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3802,6 +6007,11 @@ CARGO_NODE:
   allow-disenchanting: true
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Nodes
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARGO_NODE_INPUT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3810,6 +6020,11 @@ CARGO_NODE_INPUT:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/Lt2aGw5lQPI
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARGO_NODE_OUTPUT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3818,6 +6033,11 @@ CARGO_NODE_OUTPUT:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/Lt2aGw5lQPI
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARGO_NODE_OUTPUT_ADVANCED:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3825,6 +6045,11 @@ CARGO_NODE_OUTPUT_ADVANCED:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 AUTOMATED_CRAFTING_CHAMBER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3833,6 +6058,11 @@ AUTOMATED_CRAFTING_CHAMBER:
   allow-disenchanting: true
   required-permission: ''
   youtube: https://youtu.be/FZj7nu9sOYA
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 REACTOR_ACCESS_PORT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3840,6 +6070,11 @@ REACTOR_ACCESS_PORT:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 FLUID_PUMP:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3847,6 +6082,11 @@ FLUID_PUMP:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 TRASH_CAN_BLOCK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3854,6 +6094,11 @@ TRASH_CAN_BLOCK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARBON_PRESS:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3861,6 +6106,11 @@ CARBON_PRESS:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARBON_PRESS_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3868,6 +6118,11 @@ CARBON_PRESS_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 CARBON_PRESS_3:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3875,6 +6130,11 @@ CARBON_PRESS_3:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_SMELTERY:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3882,6 +6142,11 @@ ELECTRIC_SMELTERY:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ELECTRIC_SMELTERY_2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3889,6 +6154,11 @@ ELECTRIC_SMELTERY_2:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 WITHER_ASSEMBLER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3896,6 +6166,11 @@ WITHER_ASSEMBLER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ORGANIC_FOOD_MELON:
   youtube: https://youtu.be/qJdFfvTGOmI
 ORGANIC_FOOD_WHEAT:
@@ -3943,6 +6218,11 @@ OUTPUT_CHEST:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 TABLE_SAW:
   enabled: false
   can-be-used-in-workbenches: false
@@ -3950,6 +6230,11 @@ TABLE_SAW:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 COPPER_WIRE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3957,6 +6242,11 @@ COPPER_WIRE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 RADIANT_BACKPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3964,6 +6254,11 @@ RADIANT_BACKPACK:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 DIET_COOKIE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3971,6 +6266,11 @@ DIET_COOKIE:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 EXPLOSIVE_SHOVEL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3979,6 +6279,11 @@ EXPLOSIVE_SHOVEL:
   allow-disenchanting: true
   required-permission: ''
   damage-on-use: false
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 AUTO_DRIER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3986,6 +6291,11 @@ AUTO_DRIER:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 STAFF_ELEMENTAL_STORM:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3993,6 +6303,11 @@ STAFF_ELEMENTAL_STORM:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
 ANCIENT_RUNE_LIGHTNING:
   enabled: true
   can-be-used-in-workbenches: false
@@ -4000,3 +6315,44 @@ ANCIENT_RUNE_LIGHTNING:
   allow-enchanting: true
   allow-disenchanting: true
   required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
+COAL_GENERATOR_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
+LAVA_GENERATOR_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
+ANCIENT_RUNE_SOULBOUND:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'
