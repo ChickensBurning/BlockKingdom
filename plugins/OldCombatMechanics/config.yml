@@ -22,7 +22,7 @@ interactive: [enchantment_table,anvil,brewing_stand,trapped_chest,chest,bed,boat
 # To use the per-world feature you must specify a list of worlds in square brackets []
 # For example (names are case sensitive):
 # worlds: [world,survival,creative,SkyWars]
-# Another example (for 1 world): 
+# Another example (for 1 world):
 # worlds: [bestWorld]
 
 disable-attack-cooldown:
@@ -35,13 +35,13 @@ disable-attack-cooldown:
 disable-player-collisions:
   # This is to disable player collisions
   # This is now compatible with scoreboard and tablist-editing plugins
-  enabled: false
+  enabled: true
   worlds: []
 
 disable-sword-sweep:
   # This is to disable the sword sweep attack
   # Particle effect is also now removed
-  enabled: true
+  enabled: false
   worlds: []
 
 disable-crafting:
@@ -54,7 +54,7 @@ disable-crafting:
 disable-offhand:
   # Disable the usage of the offhand
   # Won't affect sword-blocking module
-  enabled: true
+  enabled: false
   worlds: []
   # Whether the following list allows items or blocks them
   whitelist: true
