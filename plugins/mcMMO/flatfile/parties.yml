@@ -2,7 +2,7 @@ Pu$$yRippers:
   Leader: 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
   Locked: true
   Level: 10
-  Xp: 2174
+  Xp: 3525
   Ally: ''
   ExpShareMode: EQUAL
   ItemShareMode: NONE
@@ -13,12 +13,12 @@ Pu$$yRippers:
     WOODCUTTING: true
     MISC: true
   Members:
-  - 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
+  - 903bd7f5-b440-4c08-a817-772b6861d1d4|PlzResetServer
 RetiredMC:
   Leader: 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   Locked: true
   Level: 10
-  Xp: 3900
+  Xp: 0
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -31,14 +31,13 @@ RetiredMC:
   Members:
   - 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   - b6bb0a32-3f3a-4e47-8db1-026a17cc5bbd|Jones02Sean
-  - fa0f1dc1-4c4b-4b94-bc3c-d9de62fba23e|GrimDoggo
   - d455043e-4198-41e3-aecf-4ee2ac54f68b|CringeMonster
 Jahaven:
   Leader: c547797c-4e89-4c4a-89cd-27312fca919e|Ben_Shapir0
   Password: OnJah
   Locked: true
   Level: 10
-  Xp: 2000
+  Xp: 2320
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -55,7 +54,7 @@ BigDickBandits:
   Password: yute
   Locked: true
   Level: 10
-  Xp: 5040
+  Xp: 1935
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -68,3 +67,26 @@ BigDickBandits:
   Members:
   - 0a32787f-5488-4414-ad5c-472ac155b379|TheHammer420
   - 4e041efa-8a2d-4dd6-a3d1-1909a420c652|ChillThickums
+GVI:
+  Leader: 3110095b-ab03-4583-ac7d-50d1adcbc633|Shushino
+  Locked: true
+  Level: 10
+  Xp: 1860
+  Ally: ''
+  ExpShareMode: EQUAL
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - 3110095b-ab03-4583-ac7d-50d1adcbc633|Shushino
+  - 7a654b75-062e-4ec5-baae-3b3434d624c0|nowp
+  - b555367d-0050-4e68-a265-6c4d82359583|ChrisTheKnight03
+  - 90f91d86-790e-46cb-9cb3-24eaa31cae8f|BroBott
+  - f851b89b-d666-4195-b3e0-cc54f8820400|AncorisPrimarch
+  - 4abae9c2-eee5-43ac-879e-2ed84a20e32a|Super_Walmart
+  - 4fc4ae5b-dd05-4883-b266-1a7b00dc1e63|LadyCheshire_
+  - 16321959-00d1-49e8-b27a-39e82b1cea1d|TheDevilProbably

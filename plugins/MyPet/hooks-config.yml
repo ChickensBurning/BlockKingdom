@@ -15,3 +15,5 @@ WorldGuard:
   Enabled: true
 ProtocolLib:
   Enabled: true
+PlaceholderAPI:
+  Enabled: true
