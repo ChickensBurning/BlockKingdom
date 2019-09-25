@@ -6356,3 +6356,15 @@ ANCIENT_RUNE_SOULBOUND:
   - ''
   - '&rYou do not have Permission'
   - '&rto access this Item'
+PORTABLE_GEO_SCANNER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true
+  required-permission: ''
+  no-permission-tooltip:
+  - '&4&lLOCKED'
+  - ''
+  - '&rYou do not have Permission'
+  - '&rto access this Item'

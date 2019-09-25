@@ -477,6 +477,7 @@ world:
     COAL_GENERATOR_2: true
     LAVA_GENERATOR_2: true
     ANCIENT_RUNE_SOULBOUND: true
+    PORTABLE_GEO_SCANNER: true
   enabled: true
 world_nether:
   enabled-items:
@@ -957,6 +958,7 @@ world_nether:
     COAL_GENERATOR_2: true
     LAVA_GENERATOR_2: true
     ANCIENT_RUNE_SOULBOUND: true
+    PORTABLE_GEO_SCANNER: true
   enabled: true
 world_the_end:
   enabled-items:
@@ -1437,6 +1439,7 @@ world_the_end:
     COAL_GENERATOR_2: true
     LAVA_GENERATOR_2: true
     ANCIENT_RUNE_SOULBOUND: true
+    PORTABLE_GEO_SCANNER: true
   enabled: true
 world_resource:
   enabled: true
@@ -1911,3 +1914,4 @@ world_resource:
     COAL_GENERATOR_2: true
     LAVA_GENERATOR_2: true
     ANCIENT_RUNE_SOULBOUND: true
+    PORTABLE_GEO_SCANNER: true
