@@ -1,0 +1,10 @@
+pper-player: 50.0
+pper-plot: 25.5
+declare-cost: 500.0
+end-cost: 250.0
+death-cost: 50.0
+neutrality-cost: 1000.0
+language: en_US
+use-titles: true
+max-war-time: 604800.0
+capital-last-conquered: false

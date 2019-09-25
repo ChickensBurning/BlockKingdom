@@ -1,24 +1,8 @@
-Pu$$yRippers:
-  Leader: 903bd7f5-b440-4c08-a817-772b6861d1d4|ItzMecha
-  Locked: true
-  Level: 10
-  Xp: 3525
-  Ally: ''
-  ExpShareMode: EQUAL
-  ItemShareMode: NONE
-  ItemShareType:
-    LOOT: true
-    MINING: true
-    HERBALISM: true
-    WOODCUTTING: true
-    MISC: true
-  Members:
-  - 903bd7f5-b440-4c08-a817-772b6861d1d4|PlzResetServer
 RetiredMC:
   Leader: 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   Locked: true
   Level: 10
-  Xp: 0
+  Xp: 560
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -37,7 +21,7 @@ Jahaven:
   Password: OnJah
   Locked: true
   Level: 10
-  Xp: 2320
+  Xp: 3200
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -49,29 +33,11 @@ Jahaven:
     MISC: true
   Members:
   - c547797c-4e89-4c4a-89cd-27312fca919e|Ben_Shapir0
-BigDickBandits:
-  Leader: 0a32787f-5488-4414-ad5c-472ac155b379|TheHammer420
-  Password: yute
-  Locked: true
-  Level: 10
-  Xp: 1935
-  Ally: ''
-  ExpShareMode: NONE
-  ItemShareMode: NONE
-  ItemShareType:
-    LOOT: true
-    MINING: true
-    HERBALISM: true
-    WOODCUTTING: true
-    MISC: true
-  Members:
-  - 0a32787f-5488-4414-ad5c-472ac155b379|TheHammer420
-  - 4e041efa-8a2d-4dd6-a3d1-1909a420c652|ChillThickums
 GVI:
   Leader: 3110095b-ab03-4583-ac7d-50d1adcbc633|Shushino
   Locked: true
   Level: 10
-  Xp: 1860
+  Xp: 4513
   Ally: ''
   ExpShareMode: EQUAL
   ItemShareMode: NONE
@@ -90,3 +56,23 @@ GVI:
   - 4abae9c2-eee5-43ac-879e-2ed84a20e32a|Super_Walmart
   - 4fc4ae5b-dd05-4883-b266-1a7b00dc1e63|LadyCheshire_
   - 16321959-00d1-49e8-b27a-39e82b1cea1d|TheDevilProbably
+PU$$Y:
+  Leader: 6d8a67f0-1cb6-4e79-9b0d-77be763ad047|iGooMo
+  Password: RIPPERS
+  Locked: true
+  Level: 10
+  Xp: 1040
+  Ally: ''
+  ExpShareMode: EQUAL
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - 6d8a67f0-1cb6-4e79-9b0d-77be763ad047|iGooMo
+  - 89808db2-8c04-4212-8038-1e8d605f7b89|ResetTheServer
+  - 903bd7f5-b440-4c08-a817-772b6861d1d4|PlzResetServer
+  - b31408a6-cd46-4b06-a9d3-684906da86e9|Wipeserver
