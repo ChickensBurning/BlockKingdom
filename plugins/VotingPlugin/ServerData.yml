@@ -1,5 +1,5 @@
 VotingPlugin:
-  Version: 'git-Spigot-94af569-a3fdef8 (MC: 1.14.4)'
+  Version: 'git-Spigot-56f8471-7554e08 (MC: 1.14.4)'
   ServiceSites:
   - SERVERPACT.COM
   - PlanetMinecraft.com
@@ -14,7 +14,7 @@ VotingPlugin:
   - Minecraft-Server.net
   Signs: {}
 PluginVersions:
-  VotingPlugin: 5.20.1
-PrevDay: 25
-PrevWeek: 39
-Month: SEPTEMBER
+  VotingPlugin: 5.20.3
+PrevDay: 29
+PrevWeek: 44
+Month: OCTOBER

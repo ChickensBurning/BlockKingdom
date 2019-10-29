@@ -15,10 +15,11 @@ regions:
         max: {x: 256, y: 256, z: 256}
         members:
             groups: [builder]
-            unique-ids: [996ac391-2e0d-4d45-8171-12a80baea242]
+            unique-ids: [996ac391-2e0d-4d45-8171-12a80baea242, 89808db2-8c04-4212-8038-1e8d605f7b89]
         flags: {deny-message: 'Sorry! You are at spawn. If you want to find a place
-                to call home, use /rtp.', build: allow, build-group: MEMBERS, greeting: Welcome
-                to the BlockKingdom spawn!, pvp: deny}
+                to call home, use /rtp.', build: allow, heal-max-health: 100.0, use: allow,
+            fall-damage: deny, invincible: allow, build-group: MEMBERS, mob-damage: deny,
+            greeting: Welcome to the BlockKingdom spawn!, pvp: deny, mob-spawning: deny}
         owners: {}
         type: cuboid
         priority: 0
@@ -32,13 +33,13 @@ regions:
             lava-fire: deny
             chorus-fruit-teleport: deny
             water-flow: deny
-            snow-fall: deny
             leaf-decay: deny
             ice-melt: deny
+            snow-fall: deny
             interact: allow
             enderman-grief: deny
-            chest-access: deny
             pvp: deny
+            chest-access: deny
             mob-spawning: deny
             fire-spread: deny
             enderpearl: deny

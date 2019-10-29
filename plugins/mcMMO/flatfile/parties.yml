@@ -1,8 +1,8 @@
 RetiredMC:
-  Leader: 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
+  Leader: b6bb0a32-3f3a-4e47-8db1-026a17cc5bbd|Jones02Sean
   Locked: true
   Level: 10
-  Xp: 560
+  Xp: 0
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -13,15 +13,29 @@ RetiredMC:
     WOODCUTTING: true
     MISC: true
   Members:
-  - 2b43669e-676d-4941-9ddc-af5d43f6635e|zNihility
   - b6bb0a32-3f3a-4e47-8db1-026a17cc5bbd|Jones02Sean
   - d455043e-4198-41e3-aecf-4ee2ac54f68b|CringeMonster
-Jahaven:
-  Leader: c547797c-4e89-4c4a-89cd-27312fca919e|Ben_Shapir0
-  Password: OnJah
+GVI:
+  Leader: f851b89b-d666-4195-b3e0-cc54f8820400|AncorisPrimarch
   Locked: true
   Level: 10
-  Xp: 3200
+  Xp: 240
+  Ally: ''
+  ExpShareMode: EQUAL
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - f851b89b-d666-4195-b3e0-cc54f8820400|AncorisPrimarch
+samr:
+  Leader: 37c6188a-e547-44d5-9f3f-972a5751ba50|drg650
+  Locked: true
+  Level: 10
+  Xp: 2957
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -32,47 +46,5 @@ Jahaven:
     WOODCUTTING: true
     MISC: true
   Members:
-  - c547797c-4e89-4c4a-89cd-27312fca919e|Ben_Shapir0
-GVI:
-  Leader: 3110095b-ab03-4583-ac7d-50d1adcbc633|Shushino
-  Locked: true
-  Level: 10
-  Xp: 4513
-  Ally: ''
-  ExpShareMode: EQUAL
-  ItemShareMode: NONE
-  ItemShareType:
-    LOOT: true
-    MINING: true
-    HERBALISM: true
-    WOODCUTTING: true
-    MISC: true
-  Members:
-  - 3110095b-ab03-4583-ac7d-50d1adcbc633|Shushino
-  - 7a654b75-062e-4ec5-baae-3b3434d624c0|nowp
-  - b555367d-0050-4e68-a265-6c4d82359583|ChrisTheKnight03
-  - 90f91d86-790e-46cb-9cb3-24eaa31cae8f|BroBott
-  - f851b89b-d666-4195-b3e0-cc54f8820400|AncorisPrimarch
-  - 4abae9c2-eee5-43ac-879e-2ed84a20e32a|Super_Walmart
-  - 4fc4ae5b-dd05-4883-b266-1a7b00dc1e63|LadyCheshire_
-  - 16321959-00d1-49e8-b27a-39e82b1cea1d|TheDevilProbably
-PU$$Y:
-  Leader: 6d8a67f0-1cb6-4e79-9b0d-77be763ad047|iGooMo
-  Password: RIPPERS
-  Locked: true
-  Level: 10
-  Xp: 1240
-  Ally: ''
-  ExpShareMode: EQUAL
-  ItemShareMode: NONE
-  ItemShareType:
-    LOOT: true
-    MINING: true
-    HERBALISM: true
-    WOODCUTTING: true
-    MISC: true
-  Members:
-  - 6d8a67f0-1cb6-4e79-9b0d-77be763ad047|iGooMo
-  - 89808db2-8c04-4212-8038-1e8d605f7b89|ResetTheServer
-  - 903bd7f5-b440-4c08-a817-772b6861d1d4|PlzResetServer
-  - b31408a6-cd46-4b06-a9d3-684906da86e9|Wipeserver
+  - 37c6188a-e547-44d5-9f3f-972a5751ba50|drg650
+  - 63884608-717a-47fc-9e34-783b31aa3dbe|AustinRL_

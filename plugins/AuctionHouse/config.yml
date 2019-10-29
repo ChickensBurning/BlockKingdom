@@ -1,5 +1,6 @@
 # 
 # AuctionHouse
+updateTicks: 20
 blacklist:
   '0':
     item: minecraft:bedrock
@@ -86,4 +87,4 @@ triggers:
   sign: '[AuctionHouse]'
   block_name: Auction House
   entity_name: Auction House
-configVersion: 18
+configVersion: 19

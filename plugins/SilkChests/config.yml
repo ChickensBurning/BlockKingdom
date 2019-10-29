@@ -1,5 +1,7 @@
 # 
 # SilkChests
+chest:
+  storable: true
 silk:
   perms: true
   creative: false
@@ -11,4 +13,4 @@ silk:
   - iron_axe
   - diamond_axe
   level: 1
-configVersion: 1
+configVersion: 2
